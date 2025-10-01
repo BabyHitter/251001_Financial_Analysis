@@ -1,0 +1,710 @@
+재무제표종류	종목코드	회사명	시장구분	업종	업종명	결산월	결산기준일	보고서종류	통화	항목코드	항목명	당기 반기말	전기말	전전기말	
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	227,699,980,524		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      기말현금및현금성자산	114,915,156,780		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로부터의 현금흐름	233,201,794,252		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashOutflowForRepaymentOfHybridBond	            신종자본증권의 상환	40,000,000,000		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInRepurchaseAgreements	            환매조건부채권매도의 감소	23,500,000,000		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	0		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromBonds	            사채의 증가	298,960,380,000		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00168933_NetIncreaseInNonControllingInterestsOfCashFlowsFromUsedInFinancingActivities	            비지배지분의 순증가	1,671,453,985		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	446,504,109		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 상환	3,483,535,624		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfSubordinatedLiabilities	            사채의 상환	0		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로부터의 현금흐름	-580,381,759,571		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	197,824,871,448		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	447,607,820,880		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	901,888,011,609		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	279,094,472,117		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            위험회피목적파생상품의 정산	42,865,860,024		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromOtherLongtermAssetsClassifiedAsInvestingActivities	            기타장기성자산의 처분	265,594,000		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	16,383,171		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	1,088,207,400		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	2,765,400		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfOtherLongtermAssetsClassifiedAsInvestingActivities	            기타장기성자산의 취득	372,104,500		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	785,008,020		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로부터의 현금흐름	234,432,488,433		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	            자산ㆍ부채의 증감	22,634,424,277		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	            손익조정사항	-36,522,612,878		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수입	9,226,833,386		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesRefundClassifiedAsOperatingActivities	            법인세 환급, 영업활동	11,504,803,113		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	15,321,260,641		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	152,950,793,101		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	            당기순이익(손실)	89,959,508,075		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      외화표시 현금및현금성자산에 대한 환율효과	-37,346,858		
+ 현금흐름표, 보험 - 연결	[null]	DB생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      현금및현금성자산의 감소	-112,747,476,886		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	1,186,537,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	1,419,748,000,000	1,186,537,000,000	
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	617,662,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashOutflowForRepaymentOfHybridBond	            신종자본증권의 상환	40,000,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	562,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInNoncontrollingInterests	            상환청구권이 있는 비지배지분의 감소	119,029,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권의 배당	447,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	566,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInRepurchaseAgreements	            환매조건부채권매도의 증가	82,600,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금지급	408,296,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 지급	22,913,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입부채의 증가	56,415,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfSubordinatedLiabilities	            후순위부채의 발행	1,141,828,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfSubordinatedLiabilities	            후순위부채의 상환	72,500,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-1,089,461,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            임차보증금의 감소	2,286,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            임차보증금의 증가	2,783,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	468,265,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의처분 - 투자활동	58,474,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	3,852,110,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의취득 - 투자활동	88,666,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	3,879,709,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	1,065,045,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00159102_ChangeOfConsolidatedScopeAndEtcOfCashFlowsFromUsedInInvestingActivities	            연결범위 변동 등	4,258,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            선물계약, 선도계약, 옵션계약, 스왑계약에 따른 현금지급	401,710,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	98,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	161,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	6,576,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	6,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	30,618,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	728,892,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	50,565,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               자산 및 부채의 변동	5,427,925,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               수익 및 비용의 조정	-6,461,030,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	1,083,670,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	33,487,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세납부	269,171,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	63,330,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	977,341,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      현금및현금성자산에 대한 환율변동효과	-23,882,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	233,211,000,000		
+ 현금흐름표, 보험 - 연결	[005830]	DB손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      환율변동효과 반영전 현금및현금성자산의 순증가(감소)	257,093,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	891,918,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	942,102,000,000	891,918,000,000	
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로 인한 현금흐름	278,814,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	58,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	129,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	299,982,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 감소	19,653,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures	            사채의 증가	598,378,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로 인한 현금흐름	-1,284,207,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            임차보증금의 감소	4,330,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            임차보증금의 증가	4,238,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익공정가치측정금융자산의 감소	1,233,104,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의 감소	149,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정금융자산의 감소	1,450,126,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정금융자산의 증가	2,394,173,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익공정가치측정금융자산의 증가	1,392,954,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAdvancesAndLoansMadeToOtherPartiesClassifiedAsInvestingActivities	            선급금의 증가	12,458,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            위험회피활동으로 인한 현금유출	160,873,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            위험회피활동으로 인한 현금유입	4,479,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherAdjustmentsForWhichCashEffectsAreInvestingOrFinancingCashFlow	            당기손익공정가치측정금융부채의 감소	0		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	1,300,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	378,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	6,186,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod	            관계기업투자주식의 취득	375,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	6,816,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로 인한 현금흐름	1,058,466,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	            자산부채의 증감	5,710,447,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	            손익조정항목	-5,493,756,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금의 수취	27,812,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세의 납부	161,715,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	20,089,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	437,845,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	            반기순이익	557,922,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      현금및현금성자산에 대한 환율변동효과	-2,889,000,000		
+ 현금흐름표, 보험 - 연결	[002550]	KB손해보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	50,184,000,000		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초의 현금및현금성자산	1,776,277,416,800		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      반기말의 현금및현금성자산	1,728,359,592,062		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로 인한 현금흐름	978,734,222,556		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	64,137,736,671		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권 배당	57,696,000,000		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	53,286,769,733		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00112882_udf_CF_202426145957708OfCashFlowsFromUsedInFinancingActivities	            차입부채의 순증감	1,214,983,577,850		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	120,487,306,800		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidToNoncontrollingInterests	            비지배지분에 지급된 배당금	8,160,464,500		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsFromChangesInOwnershipInterestsInSubsidiaries	            지배력변동없는 종속지분증권의 취득	253,820,270		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 상환	38,800,796,786		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로 인한 현금흐름	-4,556,732,492,126		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            보증금의 감소	22,057,260,895		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            보증금의 증가	24,208,860,425		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산 처분	6,257,403,635,673		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의 상환	87,163,009,542		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 처분	14,708,044,391,063		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의 취득	163,612,911,000		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 취득	18,586,045,439,367		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산 취득	6,916,080,709,754		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            위험회피목적파생상품 현금유출	19,894,136,911		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            위험회피목적파생상품 현금유입	126,452,984,058		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedFromAssociatesClassifiedAsInvestingActivities	            관계기업의 배당금	7,683,124,620		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	1,743,160,000		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInterestsInAssociates	            관계기업투자자산의 처분	0		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInvestmentProperty	            투자부동산의 처분	0		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	165,927,002		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	17,365,497,469		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInAssociates	            관계기업투자자산의 취득	26,502,699,766		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	916,050,323		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	12,819,679,964		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로 인한 현금흐름	3,544,758,469,050		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업활동에서 창출된 현금흐름	1,776,440,073,628		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               자산부채의 증감	1,409,174,428,318		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               손익조정사항	-230,398,646,950		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               연결반기순이익	597,664,292,260		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금의 수취	124,762,739,419		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesRefundClassifiedAsOperatingActivities	            법인세의 환급	60,236,213,701		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	184,419,434,947		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	1,767,738,877,249		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      현금및현금성자산에 대한 환율변동효과	-14,678,024,218		
+ 현금흐름표, 보험 - 연결	[null]	교보생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	-47,917,824,738		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초의현금및현금성자산	269,107,843,866		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	286,416,919,175	269,107,843,866	
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	688,010,244,350		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	484,897,800		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권의 배당	11,470,533,512		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	254,270,000		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            현금배당	0		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 지급	7,025,942,319		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfSubordinatedLiabilities	            외화후순위채의 발행	706,737,347,981		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfSubordinatedLiabilities	            원화후순위채의 상환	0		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-1,286,940,614,171		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            임차보증금의 감소	150,197,300		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            임차보증금의 증가	151,087,000		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	573,185,247,257		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	2,267,577,262,634		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	3,878,658,226,764		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	145,332,822,586		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00117267_udf_CF_202392217514410OfCashFlowsFromUsedInInvestingActivities	            위험회피목적파생상품의 정산	108,047,362,439		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAdvancesAndLoansMadeToOtherPartiesClassifiedAsInvestingActivities	            선급금의 증가	604,015,100		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInvestmentProperty	            투자부동산의 처분			
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInvestmentsAccountedForUsingEquityMethod	            관계기업투자자산의 처분	18,639,072,921		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	2,526,000		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	9,190,351,220		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	1,211,203,685		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	3,299,851,489		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	616,389,625,684		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	197,413,194,250		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	222,927,310,859		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               연결반기순이익조정을 위한 가감 합계	-107,926,388,110		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               연결반기순이익	82,412,271,501		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	4,335,118,430		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세환급	-50,156,016,193		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	70,544,378,931		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	435,029,675,742		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      외화표시 현금및현금성자산에 대한 환율변동효과	-150,180,554		
+ 현금흐름표, 보험 - 연결	[082640]	동양생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의 증가(감소)	17,309,075,309		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	680,224,146,805		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	598,620,823,073	680,224,146,805	
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	-377,923,843,607		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	1,579,593,546		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권 배당	4,819,111,233		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	2,304,253,000		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            연차배당	513,160,000,000		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 지급	9,761,791,828		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfSubordinatedLiabilities	            후순위부채의 발행	299,092,400,000		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfSubordinatedLiabilities	            후순위부채의 상환	150,000,000,000		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	995,770,548,373		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            임차보증금의 감소	2,706,500,000		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            임차보증금의 증가	360,720,330		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	6,169,667,232,934		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	5,168,058,945,903		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00117744_udf_CF_20239213435910OfCashFlowsFromUsedInInvestingActivities	            위험회피목적파생상품의 정산	345,097,379		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	0		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInterestsInAssociates	            관계기업투자자산의 처분	0		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	15,170,000		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	2,958,923,200		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInAssociates	            관계기업투자자산의 취득	2,491,942,893		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	3,092,919,614		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	-699,185,287,887		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	-891,215,064,588		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	-993,623,999,724		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               반기순이익조정을 위한 가감	-887,319,687,774		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               반기순이익	989,728,622,910		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	25,442,154,572		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세납부	284,469,670,934		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	256,611,240,790		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	707,668,533,853		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      현금및현금성자산에 대한 환율변동효과	-264,740,611		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	-81,603,323,732		
+ 현금흐름표, 보험 - 연결	[000060]	메리츠화재해상보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      환율변동효과 반영전 현금및현금성자산의 순증가(감소)	-81,338,583,121		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	33,036,000		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	932,184,798,960		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	763,671,794,083	932,184,798,960	
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	-205,829,789,888		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsFinancingActivities	            요구불상환지분의 변동	10,250,044		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 상환	5,840,039,932		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입부채의 상환	200,000,000,000		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-25,004,162,012		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	292,953,333,483		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	558,582,137,979		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	596,728,911,695		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	219,093,352,248		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            선물계약, 선도계약, 옵션계약, 스왑계약에 따른 현금지급	13,458,892,540		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	30,000		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	45,459,857,419		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	1,831,685,572		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	62,372,489,626		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	-374,244,407,168		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	-325,208,020,637		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               당기순이익조정을 위한 가감 합계	-124,511,629,585		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	75,475,243,054		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	31,507,659,342		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            영업활동으로 분류된 법인세납부(환급)	-21,724,224,674		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	5,916,469,946		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	389,301,482,724		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      현금및현금성자산에 대한 환율변동효과	-51,542,603		
+ 현금흐름표, 보험 - 연결	[085620]	미래에셋생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	-168,513,004,877		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의 상환	11,238,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초의 현금및현금성자산	4,177,972,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	3,678,965,000,000	4,177,972,000,000	
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로부터의 현금흐름	1,306,481,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증감	13,804,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInNoncontrollingInterests	            비지배지분의 증감 등	701,348,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금지급	873,751,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 감소	86,793,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입금의 차입	5,964,464,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures	            사채의 발행	18,075,433,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBondsNotesAndDebentures	            사채의 상환	16,472,524,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입금의 상환	6,015,500,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로부터의 현금흐름	-4,315,503,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익공정가치측정금융자산의 처분	1,133,650,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정금융자산의 처분	5,484,997,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의 취득	33,661,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정금융자산의 취득	8,424,921,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익공정가치측정금융자산의 취득	1,769,203,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities	            연결범위 변동	27,100,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            파생상품의 정산	552,496,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	16,536,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInterestsInAssociates	            관계ㆍ종속기업투자의 처분	3,860,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInvestmentProperty	            투자부동산의 처분			
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	1,108,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	51,096,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInAssociates	            관계ㆍ종속기업투자의 취득	2,161,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	87,520,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	18,734,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로부터의 현금흐름	2,512,894,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업활동에서 창출된 현금흐름	-2,145,634,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               자산ㆍ부채의 증감	-2,905,499,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               손익조정사항	-711,211,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	1,471,076,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금 수입	714,512,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세환급액(부담액)	-218,007,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	371,710,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	4,097,719,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      외화표시 현금및현금성자산에 대한 환율변동효과	-2,879,000,000		
+ 현금흐름표, 보험 - 연결	[032830]	삼성생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      현금및현금성자산의 순증가(감소)	-496,128,000,000		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초의 현금및현금성자산	1,543,023,515,165		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      반기말의 현금및현금성자산	1,457,544,146,705	1,543,024,000,000	
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로 인한 현금흐름	-871,672,932,712		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	25,104,568,945		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	3,421,555,000		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	808,386,105,886		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 상환	41,603,812,881		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로 인한 현금흐름	-813,061,008,359		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	442,493,950,948		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 상환	1,081,000,000		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 처분	3,001,716,148,258		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 취득	207,843,664,211		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 취득	3,982,396,583,395		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	647,103,508,146		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            위험회피활동으로 인한 현금유출	3,545,559,263,252		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            위험회피활동으로 인한 현금유입	3,260,638,295,221		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	764,216,480		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInterestsInAssociates	            관계기업투자주식의 처분	19,511,655		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInvestmentProperty	            투자부동산의 처분	881,484,967,646		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	262,640,351		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	6,653,031,733		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	244,007,121		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	11,721,681,060		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로 인한 현금흐름	1,607,386,917,368		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	655,014,294,315		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               자산부채증감	7,034,074,607,042		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               손익조정항목	-7,626,469,816,119		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               연결반기순이익	1,247,409,503,392		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금 수입	100,519,043,384		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세 환급(납부)액	240,095,697,599		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	9,901,162,738		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	1,101,850,440,006		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      외화표시 현금및현금성자산에 대한 환율변동효과	-8,132,344,757		
+ 현금흐름표, 보험 - 연결	[000810]	삼성화재해상보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의 감소	-85,479,368,460		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	173,384,495,828		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      기말현금및현금성자산	141,319,342,943		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로 인한 현금흐름	-209,270,325,289		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            1.배당금의 지급	200,091,078,270		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            2.리스부채의 상환	9,179,247,019		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로 인한 현금흐름	-10,467,364,289		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            14.임차보증금의 감소	3,803,893,334		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            13.임차보증금의 증가	3,736,685,025		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            7.당기손익-공정가치측정금융자산의 처분	242,092,308,891		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            10.상각후원가측정유가증권의 처분	12,995,000		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            9.기타포괄손익-공정가치측정금융자산의 처분	1,236,576,838,286		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            8.기타포괄손익-공정가치측정금융자산의 취득	1,148,156,590,099		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            6.당기손익-공정가치측정금융자산의 취득	248,010,846,612		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            11.위험회피활동으로 인한 현금유출	1,339,948,754,172		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            12.위험회피활동으로 인한 현금유입	1,307,896,124,769		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            5.무형자산의 처분	30,000,000		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            2.유형자산의 처분	115,006,384		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            4.무형자산의 취득	51,909,170,356		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            3.투자부동산의 취득	47,390,574		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            1.유형자산의 취득	9,185,094,115		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로 인한 현금흐름	194,388,771,052		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	120,613,476,856		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               자산부채증감	873,703,979,589		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               손익조정항목	-837,887,087,666		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               반기순이익	84,796,584,933		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금 수취	6,181,203,357		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세 납부	18,082,810,462		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	1,044,458,166		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	86,721,359,467		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      외화표시 현금및현금성자산에 대한 환율변동효과	-6,716,234,359		
+ 현금흐름표, 보험 - 연결	[031210]	서울보증보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	-32,065,152,885		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초의 현금및현금성자산	829,999,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00137517_ChangesInCashAndCashEquivalentsDueToForeignCurrencyTranslationOfStatementOfCashFlowsAbstract	      외화환산으로 인한 현금및현금성자산 변동	-1,567,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      기말의 현금및현금성자산	953,250,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	100,752,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            기타금융부채의 감소	0		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            기타금융부채의 증가	62,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInNoncontrollingInterests	            비지배지분의 증가	3,803,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_InterestPaidToHybridBond	            신종자본증권 이자지급	5,400,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromBonds	            사채의 발행	498,594,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금지급	378,307,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 감소	18,000,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	482,401,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익공정가치측정금융자산의 처분	239,990,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정유가증권의 처분	3,266,770,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 취득	0		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정유가증권의 취득	2,391,176,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익공정가치측정금융자산의 취득	517,222,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00137517_DecreaseInReceivablesAtAmortizedCostOfCashFlowsFromUsedInInvestingActivities	            상각후원가측정수취채권의 감소	5,198,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00137517_IncreaseInReceivablesAtAmortizedCostOfCashFlowsFromUsedInInvestingActivities	            상각후원가측정수취채권의 증가	-8,198,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            위험회피활동으로 인한 현금유출	80,410,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            위험회피활동으로 인한 현금유입	1,227,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	0		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	27,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	10,842,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInAssociates	            관계기업투자자산의 취득	13,000,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	9,963,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	-458,335,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            손익조정사항	-204,240,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금의 수취	28,100,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세의 납부	28,802,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	9,114,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	524,650,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities	            자산,부채의 증감	-1,113,277,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	            반기순이익	344,348,000,000		
+ 현금흐름표, 보험 - 연결	[null]	신한라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의 증감	124,818,000,000		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	216,836,899,984		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	327,090,301,479	216,836,899,984	
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	145,788,681,020		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	368,130,525		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	545,682,000		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInNoncontrollingInterests	            요구불상환지분의 증가	0		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 지급	3,478,065,502		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입부채의 증가	149,089,195,047		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입부채의 감소	0		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-427,969,183,708		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	143,228,141,346		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	562,110,805,758		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	875,922,904,219		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	250,490,596,068		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities	            사업의 취득	500,000,000		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            위험회피목적파생상품의 정산	2,952,600,000		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	2,737,793,725		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	0		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	704,236,800		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	392,377,808,649		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	141,070,798,611		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	47,414,707,587		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtAmortisedCostClassifiedAsOperatingActivities	                  상각후원가측정대출채권의 감소(증가)	-55,857,098,526		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	                  당기손익-공정가치측정금융자산의 감소(증가) - 영업활동	93,093,602,354		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInMiscellaneousReceivables	                  상각후원가측정기타금융자산의 감소(증가)	-32,342,196,055		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreaseDecreaseInFinancialLiabilitiesAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	                  당기손익-공정가치측정금융부채의 증가(감소) - 영업활동	-107,103,687,684		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInOtherFinancialLiabilities	                  기타금융부채의 증가(감소)	56,488,421,158		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInProvisions	                  충당부채의 증가(감소)	400,671,928		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseDecreaseInDirectInsuranceContractsLiabilityAsset	                  원보험계약부채의 증가(감소)	-100,438,359,148		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseDecreaseInReInsuranceContractsLiabilityAsset	                  재보험계약자산의 감소(증가)	-1,076,347,042		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	                  기타자산의 감소(증가)	-8,742,060,764		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities	                  기타부채의 증가(감소)	-37,651,014		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               당기순이익조정을 위한 가감 합계	59,799,733,318		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForBadDebtExpenses	                  신용손실충당금 전입	397,565,253		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDepreciationInvestmentProperty	                  투자부동산감가상각비 조정	1,156,024,075		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainOnForeignExchangeTranslations	                  외화환산이익	16,004,368,213		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForLossesOnDisposalsOfPropertyPlantAndEquipment	                  유형자산처분손실의 조정	3,578,000		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForLossesOnForeignExchangeTranslations	                  외화환산손실 조정	103,414,111,301		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherExpenseByFunction	                  기타비용 조정	1,024,351		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherRevenue	                  기타수익	2,523,482,998		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForReversalAllowanceDoubtfulAccounts	                  신용손실충당금 환입	678,189,003		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DirectInsuranceServiceResult	                  원보험계약손익	30,430,530,480		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_GainsOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치측정금융상품평가이익	355,120,792,197		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_GainsOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정금융자산처분이익	17,842,325,955		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_GainsOnDisposalsOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치측정금융상품처분이익	2,577,334,843		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ImpairmentLossOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정금융자산손상차손	28,610,933		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_LossesOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치측정금융상품평가손실	115,437,818,950		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_LossesOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정금융자산처분손실	1,627,319,996		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_LossesOnDisposalsOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치측정금융상품처분손실	25,187,202,117		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ReversalOfImpairmentLossOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정금융자산손상차손환입	102,768,196		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00148391_udf_CF_2024416133559200OfAdjustmentsForReconcileProfitLoss	                  재보험금융손익	-1,744,351,257		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForAmortisationExpense	                  무형자산상각비에 대한 조정	85,827,336		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDepreciationExpense	                  유형자산감가상각비	784,378,486		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDividendIncome	                  배당수익에 대한 조정	8,232,622,115		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncomeTaxExpense	                  법인세비용 조정	20,098,320,721		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestExpense	                  이자비용에 대한 조정	35,791,902,081		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestIncome	                  이자수익에 대한 조정	244,652,032,821		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeExpensesFromReinsuranceContractsHeldOtherThanFinanceIncomeExpenses	                  재보험계약손익	-6,833,997,003		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InsuranceFinanceIncomeExpenses	                  보험금융손익	-425,372,148,279		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	33,856,357,706		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	9,387,916,750		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세납부(환급)	-32,898,903,887		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	35,166,504,590		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	244,186,693,991		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      현금및현금성자산에 대한 환율변동효과	56,095,534		
+ 현금흐름표, 보험 - 연결	[null]	에이비엘생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	110,253,401,495		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	3,084,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	9,730,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00160393_udf_CF_2025812182423252OfCashFlowsFromUsedInInvestingActivities	            임차보증금의 증가	12,881,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00160393_udf_CF_2025812182427314OfCashFlowsFromUsedInInvestingActivities	            임차보증금의 감소	6,449,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInInvestmentsAccountedForUsingEquityMethod	            관계기업투자주식의 취득	430,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	587,891,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      반기말의 현금및현금성자산	566,510,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동현금흐름	-101,186,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권 배당금의 지급	1,400,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	130,000,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 감소	5,701,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입부채의 실행	29,269,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입부채의 상환			
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-1,327,857,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	168,117,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정금융자산의 처분	653,865,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의 취득	10,000,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익공정가치측정금융자산의 취득	1,703,985,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	364,790,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            위험회피목적파생상품자산의 정산	18,340,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	1,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	4,960,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	40,903,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	1,409,666,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	            자산ㆍ부채의 증감	1,107,762,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	            손익조정사항	-212,714,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금의 수취	25,517,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세의 납부	11,032,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	4,635,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	315,640,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	            반기순이익	189,128,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      현금및현금성자산의 환율변동효과	-2,004,000,000		
+ 현금흐름표, 보험 - 연결	[null]	케이비라이프생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의 순증감	-21,381,000,000		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	399,416,075,590		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	299,720,957,115	399,416,075,590	
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	-114,866,973,431		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	628,311,930		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권분배금의 지급	20,770,499,992		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	entity00113191_ReversalOfHybridCapitalSecuritiesIssuanceCostOfCashFlowsFromUsedInFinancingActivities	            신종자본증권발행비용의 환입	7,496,368		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	91,011,330,965		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 지급	2,464,326,912		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-479,774,216,760		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            보증금의 감소	88,253,760		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            보증금의 증가	4,535,846,000		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	632,891,741,576		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의 상환	141,407,642,011		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 처분	119,248,929,929		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의 취득	50,000,000,000		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 취득	765,395,620,154		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	544,205,468,754		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	entity00113191_CashInflowResultingFromTheSettlementOfHedgingDerivativesOfCashFlowsFromUsedInInvestingActivities	            위험회피목적파생상품 정산에 따른 현금수취	1,352,196,171		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	entity00113191_CashPaymentsRelatedToTheSettlementOfHedgingDerivativesOfCashFlowsFromUsedInInvestingActivities	            위험회피목적파생상품 정산에 따른 현금지급	0		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	439,056,000		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	0		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	2,065,025,836		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	9,000,075,463		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	498,801,252,348		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	312,465,114,519		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	314,096,102,208		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               반기순이익조정을 위한 가감 합계	-203,293,970,116		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               반기순이익	201,662,982,427		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	13,605,977,608		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세환급(납부)	-13,493,477,242		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	336,317,523		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	159,573,000,502		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      현금및현금성자산에 대한 환율변동효과	-3,855,180,632		
+ 현금흐름표, 보험 - 연결	[003690]	코리안리	유가증권시장상장법인	652	재보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순감소	-99,695,118,475		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	1,174,031,944,599		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	872,278,525,722	1,174,031,944,599	
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	-256,077,862,731		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	1,846,072,641		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권의 배당	3,543,152,071		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	1,153,870,992		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 지급	1,842,509,011		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입금의 증가	2,535,000,000,000		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입금의 감소	2,785,000,000,000		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로 인한 현금흐름	437,840,533,932		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            임차보증금의 감소	8,000,000		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            임차보증금의 증가	172,000,000		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의처분 - 투자활동	32,644,667,051		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	665,827,723,847		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	164,663,719,270		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            선물계약,선도계약,옵션계약,스왑계약에 따른 현금지급	95,169,681,106		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	353,727,000		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	280,729,590		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	-483,262,194,967		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	-729,931,099,454		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	-658,296,224,405		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               반기순이익조정을 위한 가감 합계	8,617,494,572		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               반기순이익(손실)	-80,252,369,621		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금의 수취	1,623,057,424		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세의 환급	-20,567,506,563		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	30,699,899,076		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	255,178,239,576		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      현금및현금성자산에 대한 환율변동효과	-253,895,111		
+ 현금흐름표, 보험 - 연결	[null]	푸본현대생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	-301,753,418,877		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초 현금및현금성자산	2,438,417,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	2,374,299,000,000	2,438,417,000,000	
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	2,253,878,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashInflowFromIssuanceOfHybridBond	            신종자본증권의 발행	1,971,626,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	40,147,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInNoncontrollingInterests	            비지배지분의 감소	222,706,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권의 배당	33,315,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	33,606,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInNoncontrollingInterests	            비지배지분의 증가	7,850,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInRepurchaseAgreements	            환매조건부채권매도의 순증감	163,214,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00113058_IncreaseDecreaseInOtherFinancialAssetsOfCashFlowsFromUsedInFinancingActivitiesOfCashFlowsFromUsedInFinancingActivities	            기타금융부채의 변동	-138,725,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	0		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 감소	33,393,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입부채의 증가	768,243,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입부채의 감소	222,375,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-4,756,414,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            예치보증금의 감소	13,205,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            예치보증금의 증가	5,805,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	9,526,431,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 회수	736,442,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	2,782,090,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의취득	0		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	6,861,518,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	10,798,852,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00113058_AcquisitionOfInvestmentsInAssociatesOfCashFlowsFromUsedInInvestingActivitiesOfCashFlowsFromUsedInInvestingActivities	            관계기업투자자산의 취득	-15,227,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00113058_CashFlowsFromLosingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivitiesOfCashFlowsFromUsedInInvestingActivitiesOfCashFlowsFromUsedInInvestingActivities	            연결범위변동으로 인한 현금흐름	80,602,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00113058_DecreaseInCapitalLeasePaymentReceivablesOfCashFlowsFromUsedInInvestingActivitiesOfCashFlowsFromUsedInInvestingActivities	            금융리스채권의 감소	129,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00113058_SettlementOfDerivativesHeldForHedgingOfCashFlowsFromUsedInInvestingActivities	            위험회피목적 파생상품의 정산	-204,715,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedFromAssociatesClassifiedAsInvestingActivities	            관계기업으로부터의 배당금 수취	8,551,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	34,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInterestsInAssociates	            관계기업투자자산의 처분	22,458,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInvestmentProperty	            투자부동산의 처분	25,236,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	6,112,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	41,057,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	179,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	30,351,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	2,459,015,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	341,661,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	925,561,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               반기순이익조정을 위한 가감 합계	-1,045,392,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               반기순이익	461,492,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	597,442,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세환급	-53,130,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	278,061,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	1,744,843,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      외화표시 현금및현금성자산 환율변동효과	-20,597,000,000		
+ 현금흐름표, 보험 - 연결	[088350]	한화생명	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      현금 및 현금성자산의 증감	-43,521,000,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	297,181,012,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	363,273,950,000	297,181,012,000	
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	264,416,903,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	124,207,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	88,649,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInNoncontrollingInterests	            비지배지분및부채의 증감	-203,484,626,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_InterestPaidToHybridBond	            신종자본증권 분배금	4,959,863,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 상환	23,632,869,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfSubordinatedLiabilities	            사채의 발행	498,528,280,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfTreasuryShares	            자기주식의 취득	1,998,461,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-471,002,344,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            보증금의 감소	2,384,077,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            보증금의 증가	2,685,418,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	274,839,023,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	432,932,201,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	856,822,069,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	274,538,617,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAdvancesAndLoansMadeToOtherPartiesClassifiedAsInvestingActivities	            투자활동 관련 선급금의 유출	4,369,505,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            투자활동 관련 파생상품의 정산	15,534,358,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	0		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInterestsInAssociates	            관계기업투자자산의 처분	227,702,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            투자부동산 및 유형자산의 처분	62,333,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	15,546,650,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            투자부동산 및 유형자산의 취득	11,951,063,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	274,580,743,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	78,589,734,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	45,997,894,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               조정	-164,789,410,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	197,381,250,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	12,426,621,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세환급액	-7,529,751,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	21,870,647,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	197,905,284,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      현금및현금성자산에 대한 환율변동효과	-1,902,365,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	66,092,937,000		
+ 현금흐름표, 보험 - 연결	[000370]	한화손해보험	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      환율변동효과 반영전 현금및현금성자산의 순증가(감소)	67,995,302,000		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	1,447,967,064,247		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	1,210,410,125,257	1,447,967,064,247	
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	768,010,728,089		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	2,848,773,750		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInNoncontrollingInterests	            비지배지분의 감소	26,394,706,677		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	3,924,353,368		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInNoncontrollingInterests	            비지배지분의 증가	18,033,257,657		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금지급	0		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 지급	22,355,682,509		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입금의 증가	7,300,000,000		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfSubordinatedLiabilities	            후순위부채의 발행	797,752,280,000		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입금의 상환	7,400,000,000		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfSubordinatedLiabilities	            후순위부채의 상환	0		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-2,641,775,301,449		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            임차보증금의 감소	2,682,826,241		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	552,191,550,736		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	450,981,201,772		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	2,856,936,977,188		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	591,476,654,296		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00164973_IncreaseInLeaseDepositsOfCashFlowsFromUsedInInvestingActivities	            임차보증금의 증가	2,213,191,945		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAdvancesAndLoansMadeToOtherPartiesClassifiedAsInvestingActivities	            선급금의 증가	5,550,430,000		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromLosingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities	            연결범위 변동으로 인한 현금유입	1,131,659,821		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities	            연결범위 변동으로 인한 현금감소	13,614,891,002		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            파생상품 정산으로 인한 현금유출	168,937,969,675		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashReceiptsFromFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            파생상품 정산으로 인한 현금유입	4,173,273,778		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedFromAssociatesClassifiedAsInvestingActivities	            관계기업으로부터의 배당금 수취	10,000,000		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities	            현금의기타유입(유출)	0		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	551,818,182		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	800,317,744		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	3,076,452,084		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInAssociates	            관계기업투자주식의 취득	1,393,000,000		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	2,793,558,245		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	8,304,825,288		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	1,638,074,772,690		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	1,118,429,742,839		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	1,430,775,354		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세환급(납부)	-12,036,567,454		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	68,569,877,631		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	574,747,564,674		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	      현금및현금성자산에 대한 환율변동효과	-1,867,138,320		
+ 현금흐름표, 보험 - 연결	[001450]	현대해상	유가증권시장상장법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      현금및현금성자산의 순증가(감소)	-235,689,800,670		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	545,483,518,616		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	383,199,996,064	545,483,518,616	
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로 인한 현금흐름	359,926,496,197		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 감소	727,097,192		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권의 배당	1,200,000,000		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가	1,051,127,838		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInNoncontrollingInterests	            비지배지분의 증감	-2,002,494,128		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	entity00167068_udf_CF_20258813216886OfCashFlowsFromUsedInFinancingActivities	            전환우선주 배당			
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 감소	1,177,420,321		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입금의 증가	964,600,000,000		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfSubordinatedLiabilities	            후순위사채의 발행	199,382,380,000		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입금의 상환	800,000,000,000		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로 인한 현금흐름	-495,554,798,197		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            보증금의 감소	644,135,602		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            보증금의 증가	546,257,468		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PaymentsForRestoration	            복구비의지출	50,310,000		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromDisposalOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 처분	322,781,886,851		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의 상환	54,600,000,000		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	2,039,906,703,199		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의취득	0		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	2,506,402,862,643		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치측정금융자산의 취득	302,059,395,788		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashPaymentsForFutureContractsForwardContractsOptionContractsAndSwapContractsClassifiedAsInvestingActivities	            파생상품자산(부채)의 처분(취득)	76,325,530,724		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	24,266,426,867		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	2,638,832,129		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	1,197,908,230		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로 인한 현금흐름	-26,655,220,552		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	            영업활동으로 인한 자산 부채의 변동	-423,022,683,462		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	            조정	-44,557,362,690		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금의 수취	11,671,164,349		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세환급(납부)	-22,469,496,783		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	13,858,435,185		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	281,706,795,497		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	            반기순이익	138,935,804,156		
+ 현금흐름표, 보험 - 연결	[null]	흥국생명보험	기타법인	651	보험업	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	-162,283,522,552		

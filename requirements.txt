@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-openai
+langchain-community
+beautifulsoup4
+tavily-python
+gradio
+python-dotenv
+

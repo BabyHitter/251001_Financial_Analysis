@@ -1,0 +1,797 @@
+재무제표종류	종목코드	회사명	시장구분	업종	업종명	결산월	결산기준일	보고서종류	통화	항목코드	항목명	당기 반기말	전기말	전전기말	
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	1,964,087,608,940		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      기말현금및현금성자산	1,815,996,410,745		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	-347,010,373,944		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권의 배당	5,200,000,000		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromBonds	            발행사채의 증가	409,715,596,024		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_RepaymentsOfBonds	            발행사채의 감소	355,403,000,000		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금지급	98,100,000,000		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 상환	5,722,754,755		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입부채의 증가	10,258,832,886,292		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입부채의 감소	10,551,133,101,505		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	40,302,404,120		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            임차보증금의 감소	1,437,000,000		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            임차보증금의 증가	2,011,952,000		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFairValueFinancialAsset	            당기손익-공정가치금융자산의 처분 - 투자활동	734,275,896,594		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가금융자산의 처분 - 투자활동	383,682,727,636		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치금융자산의 처분	2,379,937,602,731		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFairValueFinancialAsset	            당기손익-공정가치금융자산의 취득 - 투자활동	1,034,303,506,571		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가금융자산의 취득 - 투자활동	271,052,679,359		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치금융자산의 취득	2,127,750,544,859		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	3,567,883,350		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	19,535,945,134		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	7,944,078,268		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	160,467,247,581		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	-281,479,788,537		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	-74,342,166,769		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInDuefromBanks	                  예치금의 감소(증가)	-3,810,000		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	                  당기손익-공정가치금융자산의 감소(증가) - 영업활동	-49,947,685,968		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInLoans	                  대출채권및수취채권의 감소(증가)	-712,502,221,010		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets	                  사외적립자산의 감소(증가)	-377,821,971		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInOtherFinancialLiabilities	                  기타금융부채의 증가(감소)	-68,903,678,589		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations	                  퇴직금의 지급	-14,615,698,029		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInProvisions	                  충당부채의 증가(감소)	-1,688,382,861		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInDerivativeFinancialAssets	                  파생상품자산의 감소(증가)	55,758,808,034		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	                  기타자산의 감소(증가)	-18,572,441,492		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers	                  예수부채의 증가(감소)	793,846,510,415		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDerivativeFinancialLiabilities	                  파생상품부채의 증가(감소)	-54,596,630,721		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities	                  기타부채의 증가(감소)	-2,739,114,577		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               당기순이익조정을 위한 가감 합계	-362,394,413,640		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	                  신용손실에 대한 손상차손	107,636,861,146		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainLossOnForeignExchangeTranslations	                  외화환산손익	-2,840,696,745		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForNonOperatingIncomeExpense	                  기타영업외손익	5,591,081		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherOperatingIncomeExpense	                  기타영업손익	89,307,665		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForProvisionForSeveranceIndemnities	                  퇴직급여 조정	8,924,159,876		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치금융자산 관련손익	7,730,801,059		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치금융자산 관련손익	37,584,270,285		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense	                  감가상각비 조정	31,967,572,694		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDividendIncome	                  배당수익에 대한 조정	441,310,652		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForGainLossOnDisposalsPropertyPlantAndEquipment	                  유무형자산 관련손익	601,247,858		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForGainsLossesOnChangeInFairValueOfDerivatives	                  파생상품평가손익	1,649,188,543		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncomeTaxExpense	                  법인세비용 조정	41,898,531,097		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestExpense	                  이자비용에 대한 조정	583,389,378,398		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestIncome	                  이자수익에 대한 조정	1,090,949,896,453		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               반기순이익	155,256,791,872		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금 수취액	441,310,652		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세 납부액	50,028,733,443		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자비용 지급액	587,056,725,270		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수익 수취액	1,078,591,184,179		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         현금및현금성자산에 대한 환율변동효과	-1,850,475,952		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	-148,091,198,195		
+ 현금흐름표, 은행 - 별도	[192520]	경남은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      환율변동효과 반영전 현금및현금성자산의 순증가(감소)	-146,240,722,243		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초 현금및현금성자산	602,644,502,637		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	725,802,050,953	602,644,502,637	
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	11,799,313,441		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금지급	0		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 지급	4,667,581,950		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입부채의 순감소	-333,533,104,609		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures	            발행사채의 증가	1,050,000,000,000		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBondsNotesAndDebentures	            발행사채의 감소	700,000,000,000		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-129,135,425,220		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFairValueFinancialAsset	            당기손익인식금융자산의 처분	178,556,910,657		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 상환	264,847,317,553		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 처분	3,026,335,674,430		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFairValueFinancialAsset	            당기손익인식금융자산의 취득	322,565,433,581		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 취득	132,110,299,881		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 취득	3,124,028,461,863		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	0		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	14,674,250,000		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	15,158,772		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	5,481,723,763		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	241,859,412,901		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	-114,863,293,134		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	41,491,263,195		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtAmortisedCostClassifiedAsOperatingActivities	                  상각후원가측정대출채권 및 기타금융자산의 증가	-1,795,511,307,854		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	                  당기손익-공정가치측정금융상품의 감소	15,647,008,063		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseincreaseInFairValueOfPlanAssets	                  사외적립자산의 감소(증가)	-8,772,861,583		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreaseDecreaseInFinancialLiabilitiesAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	                  당기손익-공정가치측정금융부채의 증가(감소)	127,110,766		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInOtherFinancialLiabilities	                  기타금융부채의 증가(감소)	9,844,994,095		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInPostemploymentBenefitObligations	                  퇴직금의 지급	-8,953,905,153		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInProvisions	                  충당부채의 감소	-41,073,053		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	                  기타자산의 증가	-7,186,331,828		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers	                  예수부채의 증가	1,838,906,179,513		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities	                  기타부채의 감소	-2,568,549,771		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               당기순이익조정을 위한 가감 합계	-302,060,181,248		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	                  신용손실에 대한 손상차손	74,162,918,640		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainOnForeignExchangeTranslations	                  외화환산이익	3,841,313,694		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainsOnChangeInFairValueOfDerivatives	                  파생상품평가이익	17,399,853,319		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainsOnDisposalsOfPropertyPlantAndEquipment	                  유,무형자산처분이익	0		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForLossesOnChangeInFairValueOfDerivatives	                  파생상품평가손실	17,151,237,712		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForLossesOnDisposalsOfPropertyPlantAndEquipment	                  유,무형자산처분손실	5,390,617		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForLossesOnForeignExchangeTranslations	                  외화환산손실	7,835,118,831		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForProvisionForSeveranceIndemnities	                  퇴직급여	5,335,057,230		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForReversalsOfProvisions	                  충당부채 관련이익	9,952,667		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치측정금융상품평가이익	28,577,993,500		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정금융자산처분이익	24,076,581,200		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsOnDisposalsOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치측정금융상품처분이익	3,418,715,884		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_LossesOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치측정금융상품평가손실	5,908,471,696		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_LossesOnDisposalsOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치측정금융상품처분손실	1,415,008,491		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense	                  감가상각비와 상각비의 조정	22,348,738,681		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDividendIncome	                  배당수익	890,729,859		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncomeTaxExpense	                  법인세비용	45,171,530,041		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestExpense	                  이자비용	311,313,730,342		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestIncome	                  이자수익	714,492,243,406		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익	145,705,624,919		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	890,729,859		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세납부	47,806,915,868		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	314,999,089,754		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	718,637,981,798		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         현금및현금성자산에 대한 환율변동효과	-1,365,752,806		
+ 현금흐름표, 은행 - 별도	[192530]	광주은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      현금및현금성자산의 증감	124,523,301,122		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초 현금및현금성자산	19,800,600,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      기말 현금및현금성자산	23,821,878,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	1,534,048,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseInTrustAccountLiabilities	            신탁계정미지급금의 증감	-1,677,328,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashInflowFromIssuanceOfHybridBond	            신종자본증권의 발행	0		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00386937_IncreaseDecreaseInBorrowingsOfCashFlowsFromUsedInFinancingActivities	            차입부채의 증감	4,260,622,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00386937_NetCashFlowsFromDerivativeFinancialInstrumentForHedgingPurposesOfCashFlowsFromUsedInFinancingActivities	            위험회피목적 파생금융상품의 순현금흐름	-10,584,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	1,625,604,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsFinancingActivities	            기타	-353,018,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures	            사채의 증가	5,644,046,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBondsNotesAndDebentures	            사채의 감소	8,058,742,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	2,210,015,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSaleOfInvestmentFinancialInstruments	            투자금융자산의 처분	22,856,860,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFairValueFinancialAsset	            당기손익-공정가치측정 금융자산의 처분	6,506,856,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfInvestmentsInSubsidiariesJointVenturesAndAssociates	            관계기업 및 종속기업 투자의 처분	28,461,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFairValueFinancialAsset	            당기손익-공정가치측정 금융자산의 취득	9,517,938,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfInvestmentFinancialInstruments	            투자금융자산의 취득	17,597,780,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfInvestmentsInSubsidiariesJointVenturesAndAssociates	            관계기업 및 종속기업 투자의 취득	18,000,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00386937_NetCashFlowsFromDerivativeFinancialInstrumentForHedgingPurposesOfCashFlowsFromUsedInInvestingActivities	            위험회피목적 파생금융상품의 순현금흐름	3,223,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities	            기타	8,487,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	90,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	14,853,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	20,743,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	54,354,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	659,208,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	            자산ㆍ부채의 증감	-2,184,927,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentForDecreaseIncreaseInLoansAtAmortisedCost	               상각후원가측정 대출채권	-9,846,333,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	               당기손익-공정가치측정 금융자산	-2,712,762,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseincreaseInCurrentTaxAssets	               당기법인세자산	-3,608,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreaseDecreaseInFinancialLiabilitiesAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	               당기손익-공정가치측정 금융부채	39,851,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInDeferredTaxLiabilities	               이연법인세부채	116,089,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00386937_DerivativeFinancialInstrumentOfAdjustmentsForAssetsLiabilitiesOfOperatingActivities	               파생금융상품	304,781,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	               기타자산	-4,885,753,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers	               예수부채	5,173,127,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities	               기타부채	9,629,681,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	            손익조정사항	616,931,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	               신용손실 충당금전입액	515,452,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainLossOnForeignExchangeTranslations	               외화환산손익 조정	94,509,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00386937_NetLossesGainsOnDerivativeFinancialInvestmentsForHedgingPurposesOfAdjustmentsForReconcileProfitLoss	               위험회피목적 파생금융상품 순손익	-27,932,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00386937_NetLossesGainsOnFinancialInstrumentsAtFairValueThroughProfitOrLossOfAdjustmentsForReconcileProfitLoss	               당기손익-공정가치측정 금융상품 순손익	-394,006,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00386937_NetLossesGainsOnFinancialInvestmentsOfAdjustmentsForReconcileProfitLoss	               투자금융자산 순손익	-78,394,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00386937_OtherNetLossesGainsOnPropertyAndEquipmentIntangibleAssetsOfAdjustmentsForReconcileProfitLoss	               유무형자산기타순손익	21,163,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00386937_ShareOfLossProfitOfAssociatesAndSubsidiariesOfAdjustmentsForReconcileProfitLoss	               관계기업 및 종속기업 투자손익	-7,200,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense	               감가상각비 및 상각비	256,181,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestExpense	               순이자손익	81,034,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForSharebasedPayments	               주식보상비용	29,952,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherAdjustmentsToReconcileProfitLoss	               기타손익	56,655,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PostemploymentBenefitExpenseDefinedBenefitPlans	               확정급여형퇴직급여	69,517,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	            반기순이익	2,227,204,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         외화표시 현금및현금성자산에 대한 환율변동효과	-381,993,000,000		
+ 현금흐름표, 은행 - 별도	[060000]	국민은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	4,021,278,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초의 현금 및 현금성자산	14,943,762,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      반기말의 현금 및 현금성자산	18,471,106,000,000	14,943,762,000,000	
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	5,854,199,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashInflowFromIssuanceOfHybridBond	            신종자본증권의 발행	589,115,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashOutflowForRepaymentOfHybridBond	            신종자본증권의 상환	419,831,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149646_udf_CF_2025726182046999OfCashFlowsFromUsedInFinancingActivities	            신종자본증권의 분배금	86,173,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149646_udf_CF_2025811143158100OfCashFlowsFromUsedInFinancingActivities	            차입부채의 순증가	4,896,036,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금 지급	849,259,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 상환	35,786,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures	            사채의 증가	109,676,471,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBondsNotesAndDebentures	            사채의 감소	107,916,374,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-2,682,983,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFairValueFinancialAsset	            당기손익금융자산 감소	33,246,597,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가유가증권 감소	7,936,521,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익금융자산 감소	13,807,975,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfInvestmentsInSubsidiaries	            종속기업투자의 처분	14,000,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFairValueFinancialAsset	            당기손익금융자산 증가	33,826,994,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가유가증권 증가	8,756,396,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익금융자산 증가	14,671,702,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfInvestmentsInSubsidiaries	            종속기업투자의 취득	188,031,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149646_udf_CF_2025726181730550OfCashFlowsFromUsedInInvestingActivities	            투자부동산 및 유형자산의 처분	1,362,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149646_udf_CF_2025726181815254OfCashFlowsFromUsedInInvestingActivities	            투자부동산 및 유형자산의 취득	95,647,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromGovernmentGrantsClassifiedAsInvestingActivities	            정부보조금 취득	124,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	700,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInterestsInAssociates	            관계기업투자의 처분	20,236,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	64,700,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInAssociates	            관계기업투자의 취득	107,028,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	313,815,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	            영업활동으로 인한 자산부채의 변동	-1,601,462,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	            비용 및 수익의 조정	-2,680,462,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금 수입	161,365,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세 납부	331,001,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	4,732,385,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	8,170,606,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	            반기연결순이익	1,327,154,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         외화표시 현금 및 현금성자산에 대한 환율변동효과	42,313,000,000		
+ 현금흐름표, 은행 - 별도	[024110]	기업은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금 및 현금성자산의 순증가(감소)	3,527,344,000,000		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	2,812,439,147,179		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      기말현금및현금성자산	2,969,362,692,692		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	-351,359,196,338		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashInflowFromIssuanceOfHybridBond	            신종자본증권의 발행	0		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashOutflowForRepaymentOfHybridBond	            신종자본증권의 상환	0		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권 분배금의 지급	5,344,794,517		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromBonds	            사채의 증가	2,136,222,232,600		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_RepaymentsOfBonds	            사채의 상환	1,700,000,000,000		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00124106_OthersOfCashFlowsFromUsedInFinancingActivities	            기타	-159,268,187,017		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금지급	352,700,000,000		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 상환	12,230,042,307		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입금의 증가	299,273,639,545		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입금의 감소	557,312,044,642		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-310,097,177,063		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInLeaseholdDeposits	            임차보증금의 증감	880,942,391		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFairValueFinancialAsset	            당기손익-공정가치금융자산의처분 - 투자활동	4,878,851,234,262		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의처분 - 투자활동	611,662,206,382		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	4,105,404,703,203		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFairValueFinancialAsset	            당기손익-공정가치금융자산의취득 - 투자활동	5,024,032,744,597		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의취득 - 투자활동	687,646,585,771		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	4,173,318,561,134		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	0		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	2,282,248,708		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	6,326,651,135		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	17,853,969,372		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	831,504,091,416		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	166,796,813,774		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	481,435,105,524		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInDuefromBanks	                  예치금의 증감	-2,684,290,293		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	                  당기손익-공정가치측정금융자산의 증감	-13,293,849,507		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInLoans	                  대출채권의 증감	-709,451,854,559		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInMiscellaneousReceivables	                  수취채권의 증감	-244,140,274,943		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInProvisions	                  충당부채의 증감	-152,801,937		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInDerivativeFinancialAssets	                  파생상품자산의 증감	14,800,919,049		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	                  기타자산의 증감	-12,599,828,313		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers	                  예수부채의 증감	882,726,495,296		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInEmployeeBenefitLiabilities	                  순확정급여부채의 증감	-6,999,458,200		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities	                  기타부채의 증감	573,230,048,931		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               당기순이익조정을 위한 가감 합계	-550,320,397,953		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	                  신용손실충당금 전입액 조정	186,225,301,175		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainLossOnForeignExchangeTranslations	                  외화환산손익	18,957,653,156		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherOperatingIncomeExpense	                  기타영업손익	-6,496,390,085		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForProvisionForSeveranceIndemnities	                  퇴직급여 조정	12,784,721,577		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치금융자산 관련순손익	31,113,254,515		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치금융자산 관련순손익	53,529,936,255		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00124106_udf_CF_202391151352266OfAdjustmentsForReconcileProfitLoss	                  유ㆍ무형자산 관련순손익	-167,491,645		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00124106_udf_CF_2024220152728560OfAdjustmentsForReconcileProfitLoss	                  상각후원가측정금융자산관련순손익	0		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense	                  감가상각비와 상각비의 조정	57,836,889,363		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForGainsLossesOnChangeInFairValueOfDerivatives	                  파생상품평가순손익	2,219,147,234		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncomeTaxExpense	                  법인세비용 조정	62,504,084,698		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestExpense	                  이자비용에 대한 조정	882,079,675,757		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestIncome	                  이자수익에 대한 조정	1,652,244,027,450		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherAdjustmentsToReconcileProfitLoss	                  기타조정사항	-15,950,353		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	235,682,106,203		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	4,629,169,340		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세납부(환급)	34,329,830,297		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	924,392,876,693		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	1,618,800,815,292		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         현금및현금성자산에 대한 환율변동효과	-13,124,172,502		
+ 현금흐름표, 은행 - 별도	[005280]	부산은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	156,923,545,513		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초의 현금및현금성자산	24,986,635,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      기말의 현금및현금성자산	24,505,039,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로 인한 현금흐름	807,372,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseInFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLossClassifiedAsFinancingActivities	            당기손익-공정가치측정지정금융부채의 감소	50,000,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreaseInFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLossClassifiedAsFinancingActivities	            당기손익-공정가치측정지정금융부채의 증가	99,985,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashInflowFromIssuanceOfHybridBond	            신종자본증권의 발행	399,387,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashOutflowForRepaymentOfHybridBond	            신종자본증권의 상환	240,000,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DecreaseInOtherLiabilities	            기타부채의 감소	93,190,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_IncreaseInOtherLiabilitiesFinancingActivities	            기타부채의 증가	28,744,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149293_NetIncreaseInBorrowingsOfCashFlowsFromUsedInFinancingActivities	            차입부채의 순증가	6,139,847,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149293_udf_CF_202381715125917OfCashFlowsFromUsedInFinancingActivities	            위험회피목적 파생금융상품의 순 현금흐름	0		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	1,704,831,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures	            사채의 발행	6,606,990,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBondsNotesAndDebentures	            사채의 상환	10,379,560,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로 인한 현금흐름	-2,380,818,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFairValueFinancialAsset	            당기손익-공정가치측정유가증권의 감소	680,614,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 감소	3,826,830,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정유가증권의 감소	20,610,315,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFairValueFinancialAsset	            당기손익-공정가치측정유가증권의 취득	783,477,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 취득	2,877,001,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정유가증권의 취득	23,546,127,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149293_udf_CF_202381714594893OfCashFlowsFromUsedInInvestingActivities	            위험회피목적 파생금융상품의 순 현금흐름	11,699,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149293_udf_CF_2023817151645360OfCashFlowsFromUsedInInvestingActivities	            기타자산의 감소	154,422,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149293_udf_CF_2023817151659381OfCashFlowsFromUsedInInvestingActivities	            기타자산의 증가	155,062,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromDisposalOfNoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleAndDiscontinuedOperations	            매각예정비유동자산의 처분	17,600,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	1,200,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInterestsInAssociates	            관계기업에대한투자자산의 처분	6,205,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	36,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	190,884,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInAssociates	            관계기업에대한투자자산의 취득	90,038,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	1,320,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	45,830,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로 인한 현금흐름	1,081,993,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	            자산ㆍ부채의 증감	-1,407,329,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentForDecreaseIncreaseInDueFromBanksAtAmortisedCost	               상각후원가측정예치금	-642,007,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentForDecreaseIncreaseInLoansAtAmortisedCost	               상각후원가측정대출채권	1,002,547,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentForDecreaseIncreaseInLoansAtFairValueThroughProfitOrLoss	               당기손익-공정가치측정대출채권	308,298,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentForDecreaseIncreaseInSecuritiesAtFairValueThroughProfitOrLoss	               당기손익-공정가치측정유가증권	-2,500,206,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreaseDecreaseInFinancialLiabilitiesAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	               당기손익-공정가치측정금융부채	94,326,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInProvisions	               충당부채	-35,238,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInDerivativeFinancialAssets	               파생상품자산	8,755,454,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	               기타자산	-12,549,811,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers	               예수부채	-2,063,224,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDerivativeFinancialLiabilities	               파생상품부채	-8,672,193,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInEmployeeBenefitLiabilities	               순확정급여부채	-133,736,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities	               기타부채	15,028,461,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149293_udf_CF_202311817132803OfCashFlowsFromUsedInOperatingActivities	            손익조정사항	-3,318,747,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDividendIncome	               배당수익	44,430,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncomeTaxExpense	               법인세비용	-616,713,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestExpense	               이자비용	-5,488,854,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestIncome	               이자수익	9,379,884,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	            현금유출입이없는손익항목	255,325,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentForGainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	               상각후원가측정유가증권처분손익	-38,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	               신용손실충당금전입액	345,247,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForNonOperatingIncomeExpense	               영업외손익	3,850,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherOperatingIncomeExpense	               기타영업손익	-121,142,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	               기타포괄손익-공정가치측정유가증권처분손익	104,827,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149293_NetNonCashForeignCurrenciesTransactionGainOfAdjustmentsForReconcileProfitLoss	               외환거래손익	-115,175,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149293_udf_CF_20231181764317OfAdjustmentsForReconcileProfitLoss	               당기손익-공정가치측정금융상품관련손익	-292,184,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149293_udf_CF_20231181769428OfAdjustmentsForReconcileProfitLoss	               당기손익-공정가치측정지정금융상품관련손익	-7,481,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00149293_udf_CF_202311817731165OfAdjustmentsForReconcileProfitLoss	               종업원관련비용	68,949,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense	               감가상각비 및 기타상각비	243,466,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금의 수취	46,626,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세의 납부	349,385,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	5,478,548,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	9,359,834,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	            당기순이익	1,974,217,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         외화표시 현금및현금성자산에 대한 환율변동효과	9,857,000,000		
+ 현금흐름표, 은행 - 별도	[000010]	신한은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의 증가(감소)	-481,596,000,000		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	1,847,913,323,015		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      기말현금및현금성자산	2,999,737,896,472		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	1,458,216,907,797		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreaseInFundAccountPayables	            기금계정미지급금의 증가(감소)	-64,353,722		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreaseInTrustAccountLiabilities	            신탁계정미지급금의 증가(감소)	116,275,346,152		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashInflowFromIssuanceOfHybridBond	            신종자본증권의 발행	0		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashOutflowForRepaymentOfHybridBond	            신종자본증권의 상환	0		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권의 배당	-2,364,999,997		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDepositsAsFinancialActivities	            임대보증금의 증가(감소)	-2,108,000,000		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금지급	-200,045,500,000		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IssueOfEquity	            유상증자	0		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 지급	-10,216,131,117		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입금의 증가	1,739,031,367,058		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures	            사채의 발행	1,169,333,596,800		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBondsNotesAndDebentures	            사채의 상환	-600,000,000,000		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입금의 감소	-751,624,417,377		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-339,703,776,942		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            보증금의 감소(증가)	3,331,205,799		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFairValueFinancialAsset	            당기손익-공정가치금융자산의감소	598,571,314,986		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의감소	831,577,992,340		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의감소	2,787,623,587,304		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의증가	-590,965,203,196		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의증가	-3,161,882,028,450		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsInvestingActivities	            당기손익-공정가치금융자산의증가	-785,496,223,224		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00109019_udf_CF_20231026202251220OfCashFlowsFromUsedInInvestingActivities	            위험회피목적파생금융자산의 감소(증가)	0		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsUsedInObtainingControlOfSubsidiariesOrOtherBusinessesClassifiedAsInvestingActivities	            종속기업 및 관계기업 취득	0		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	0		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	773,970,447		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	-16,237,448,974		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	-1,858,078		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	-6,999,085,896		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	52,921,234,329		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	-525,717,932,178		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	-223,031,488,189		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentForDecreaseIncreaseInLoansAtAmortisedCost	                  상각후원가측정대출채권의 감소(증가)	214,924,335,711		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInDeferredLoanOriginationFee	                  이연대출부대수익의 증가	2,708,415,101		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	                  당기손익-공정가치측정 금융자산의 감소(증가)	-64,757,300,036		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreaseDecreaseInDeferredLoanOriginationCost	                  이연대출부대비용의 증가	-23,398,159,630		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInProvisions	                  충당부채의 증가(감소)	60,351,741		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00109019_udf_CF_2023102620136712OfAdjustmentsForAssetsLiabilitiesOfOperatingActivities	                  사용제한예치금의 감소(증가)	38,062,916,492		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00109019_udf_CF_2023102620326701OfAdjustmentsForAssetsLiabilitiesOfOperatingActivities	                  상각여신의 회수	12,712,430,790		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00109019_udf_CF_2023102620535839OfAdjustmentsForAssetsLiabilitiesOfOperatingActivities	                  사외적립자산의 감소(증가)	0		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInDerivativeFinancialAssets	                  파생상품자산의 감소(증가)	258,964,296,915		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	                  기타자산의 감소(증가)	-1,089,428,009,334		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers	                  예수부채의 증가(감소)	-555,875,760,182		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDerivativeFinancialLiabilities	                  파생상품부채의 증가(감소)	-247,492,364,307		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInEmployeeBenefitLiabilities	                  확정급여부채 증가(감소)	0		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities	                  기타부채의 증가(감소)	1,230,487,358,550		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               손익조정사항	-561,753,153,808		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	                  신용손실충당금 전입액	122,432,147,980		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForExpenseOfProvisions	                  충당부채전입액	833,488,120		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainLossOnForeignExchangeTranslations	                  외환거래손익	-47,289,920,972		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherOperatingIncomeExpense	                  기타영업손익	-249,663,635		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForProvisionForSeveranceIndemnities	                  퇴직급여	12,392,519,514		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치측정금융상품관련손익	-26,419,001,021		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00109019_udf_CF_2024319195848744OfAdjustmentsForReconcileProfitLoss	                  유무형자산기타순손익	-411,544,480		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00109019_udf_CF_2024320141211621OfAdjustmentsForReconcileProfitLoss	                  기타포괄손익-공정가치측정금융자산관련손익	-30,277,398,403		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00109019_udf_CF_202432014940651OfAdjustmentsForReconcileProfitLoss	                  영업외손익	-95,930,757		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense	                  감가상각비 및 무형자산상각비	45,035,430,302		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForGainsLossesOnChangeInFairValueOfDerivatives	                  파생상품관련손익	8,310,539,673		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncomeTaxExpense	                  법인세비용	69,681,243,169		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestExpense	                  이자비용	784,209,678,877		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestIncome	                  이자수익	-1,499,189,403,595		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RevenueFromDividends	                  배당수익	-715,338,580		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               연결반기순이익(손실)	259,066,709,819		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	715,338,580		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidClassifiedAsOperatingActivities	            법인세납부	-42,001,338,681		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	-873,782,061,855		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	1,493,707,228,463		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         현금및현금성자산에 대한 환율변동효과	-19,609,791,727		
+ 현금흐름표, 은행 - 별도	[005270]	아이엠뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      환율변동효과 반영전 현금및현금성자산의 순증가(감소)	1,171,434,365,184		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      반기초현금및현금성자산	23,772,681,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	27,131,612,000,000	23,772,681,000,000	
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로 인한 현금흐름	1,775,876,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashOutflowForRepaymentOfHybridBond	            신종자본증권의 상환	240,000,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권 배당금의 지급	47,749,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_NetIncreaseDecreaseInBorrowingsOfCashFlowsFromUsedInFinancingActivities	            차입부채의 순증감	2,452,187,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_NetIncreaseDecreaseInOtherLiabilitiesOfCashFlowsFromUsedInFinancingActivities	            기타부채의 순증감	-287,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_udf_CF_2024114195644473OfCashFlowsFromUsedInFinancingActivities	            위험회피목적파생금융상품의 순증감	-425,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	1,352,524,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 상환	88,276,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures	            발행사채의 발행	6,531,977,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBondsNotesAndDebentures	            발행사채의 상환	5,479,027,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로 인한 현금흐름	5,303,393,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFairValueFinancialAsset	            당기손익-공정가치측정금융상품의 처분	9,646,586,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 상환	2,740,128,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 처분	17,875,629,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale	            매각예정으로 분류된 비유동자산이나 처분자산집단의 처분	17,201,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFairValueFinancialAsset	            당기손익-공정가치측정금융상품의 취득	10,037,431,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 취득	2,323,471,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 취득	12,534,057,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_BusinessCombinationUnderTheCommonControlOfCashFlowsFromUsedInInvestingActivities	            동일지배하 사업결합	0		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities	            기타자산의 순증감	28,916,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	34,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInterestsInAssociates	            종속기업및관계기업투자자산의 처분	19,032,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	33,993,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	58,157,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInAssociates	            종속기업및관계기업투자자산의 취득	15,493,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	89,517,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로 인한 현금흐름	-2,906,527,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	-6,525,193,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산ㆍ부채의 변동	-4,518,594,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtAmortisedCostClassifiedAsOperatingActivities	                  상각후원가측정대출채권및기타금융자산	-20,249,248,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	                  당기손익-공정가치측정금융상품	460,294,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInOtherFinancialLiabilities	                  기타금융부채	8,382,830,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInOtherNonFinancialLiabilities	                  기타부채	15,406,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInProvisions	                  충당부채	-5,545,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	                  기타자산	-54,962,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers	                  예수부채	6,986,688,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInEmployeeBenefitLiabilities	                  순확정급여부채	-54,057,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               반기순이익조정을 위한 가감 합계	-3,563,691,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_udf_CF_20253173423504OfAdjustmentsForReconcileProfitLoss	                  현금의 유출이 없는 비용의 가산	730,355,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	                     신용손실충당금전입액	365,676,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForImpairmentLossesOnInvestmentsInAssociates	                     종속기업및관계기업투자자산손상차손	52,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForLossesOnForeignExchangeTranslations	                     외화환산손실	0		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherOperatingExpense	                     기타영업비용	2,263,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForProvisionForSeveranceIndemnities	                     퇴직급여	85,701,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_OtherLosses	                     기타손실	0		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_ImpairmentLossOnPropertiesAndEquipmentIntangibleAssetAndOtherAssetsOfudf_CF_20253173423504OfAdjustmentsForReconcileProfitLoss	                     유ㆍ무형자산및기타자산의 손상차손	355,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_LossOnDerivativesDesignatedForHedgingOfudf_CF_20253173423504OfAdjustmentsForReconcileProfitLoss	                     파생상품관련손실(위험회피목적)	1,329,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_LossOnDisposalOfPropertiesAndEquipmentIntangibleAssetAndOtherAssetsOfudf_CF_20253173423504OfAdjustmentsForReconcileProfitLoss	                     유ㆍ무형자산및기타자산의 처분손실	729,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_LossOnFairValueHedgeItemsOfudf_CF_20253173423504OfAdjustmentsForReconcileProfitLoss	                     공정가치위험회피대상관련손실	59,901,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_LossOnFinancialAssetsAtFvtociOfudf_CF_20253173423504OfAdjustmentsForReconcileProfitLoss	                     기타포괄손익-공정가치측정금융자산관련손실	4,300,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense	                     유ㆍ무형자산및투자부동산 감가상각비 및 상각비	206,691,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForProvisions	                     기타충당부채관련손실	3,358,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_udf_CF_202531735922199OfAdjustmentsForReconcileProfitLoss	                  현금의 유입이 없는 수익의 차감	1,025,501,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainOnForeignExchangeTranslations	                     외화환산이익	648,793,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsOnDisposalsOfNoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale	                     매각예정자산처분이익	12,687,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_GainOnDerivativesDesignatedForHedgingOfudf_CF_202531735922199OfAdjustmentsForReconcileProfitLoss	                     파생상품관련이익(위험회피목적)	72,952,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_GainOnDisposalOfPropertiesAndEquipmentIntangibleAssetAndOtherAssetsOfudf_CF_202531735922199OfAdjustmentsForReconcileProfitLoss	                     유ㆍ무형자산및기타자산의 처분이익	2,858,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_GainOnFairValueHedgeOfudf_CF_202531735922199OfAdjustmentsForReconcileProfitLoss	                     공정가치위험회피대상관련이익	3,887,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_GainOnFinancialAssetsAtFvtociOfudf_CF_202531735922199OfAdjustmentsForReconcileProfitLoss	                     기타포괄손익-공정가치측정금융자산관련이익	84,547,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_GainOnFinancialInstrumentsAtFvtplOfudf_CF_202531735922199OfAdjustmentsForReconcileProfitLoss	                     당기손익-공정가치측정금융상품관련이익	199,441,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_GainRelatedToOtherProvisionsOfudf_CF_202531735922199OfAdjustmentsForReconcileProfitLoss	                     기타충당부채관련이익	36,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00254045_ReversalOfImpairmentLossOnPropertiesAndEquipmentIntangibleAssetOfudf_CF_202531735922199OfAdjustmentsForReconcileProfitLoss	                     유ㆍ무형자산및기타자산의 손상차손환입	300,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDividendIncome	                  배당수익	252,167,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncomeTaxExpense	                  법인세비용	397,059,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestExpense	                  이자비용	4,975,329,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestIncome	                  이자수익	8,388,766,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               반기순이익	1,557,092,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수익 수취액	252,167,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세 납부액	173,941,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자비용 지급액	4,622,175,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수익 수취액	8,162,615,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         외화표시 현금및현금성자산에 대한 환율변동효과	-813,811,000,000		
+ 현금흐름표, 은행 - 별도	[000030]	우리은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산 증감	3,358,931,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	502,482,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      기말현금및현금성자산	577,754,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	53,581,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DecreaseInOtherLiabilities	            기타부채의 감소 - 재무활동	667,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_IncreaseInOtherLiabilitiesFinancingActivities	            기타부채의 증가 - 재무활동	702,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금지급	57,752,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 지급	2,543,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입금의 증가	21,234,714,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures	            담보·무담보부사채, 어음의 발행	529,706,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBondsNotesAndDebentures	            담보·무담보부사채, 어음의 상환	580,000,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입금의 감소	21,070,579,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-76,814,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSaleOfInvestmentFinancialInstruments	            투자금융상품의처분	4,736,470,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfInvestmentFinancialInstruments	            투자금융상품의취득	4,790,559,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities	            기타의순증감	311,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInterestsInAssociates	            관계기업투자자산의 처분	3,201,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	144,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	17,648,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInAssociates	            관계기업투자자산의 취득	5,000,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInvestmentProperty	            투자부동산의 취득	27,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	3,706,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	95,184,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	-208,753,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	-57,791,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               당기순이익조정을 위한 가감 합계	-242,941,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               당기순이익(손실)	91,979,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금수취	179,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세납부(환급)	26,418,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	265,895,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	596,071,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         현금및현금성자산에 대한 환율변동효과	3,321,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	75,272,000,000		
+ 현금흐름표, 은행 - 별도	[006350]	전북은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      환율변동효과 반영전 현금및현금성자산의 순증가(감소)	71,951,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	221,154,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      반기말현금및현금성자산	331,903,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	146,244,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashInflowFromIssuanceOfHybridBond	            신종자본증권의 발행	0		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashOutflowForRepaymentOfHybridBond	            신종자본증권의 상환	0		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DecreaseInOtherLiabilities	            기타부채의 감소	1,475,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromPaidinCapitalIncrease	            유상증자	56,848,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	6,114,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입부채의 증가	622,386,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfSubordinatedLiabilities	            사채의 발행	99,874,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입부채의 상환	625,275,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfSubordinatedLiabilities	            사채의 상환	0		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-115,623,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFairValueFinancialAsset	            당기손익-공정가치유가증권의처분	0		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의상환	11,400,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	725,545,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFairValueFinancialAsset	            당기손익-공정가치유가증권의취득	150,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의취득	0		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	856,021,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities	            기타자산의 증감	-3,449,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromDisposalOfNoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleAndDiscontinuedOperations	            매각예정비유동자산의 처분	5,500,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	2,507,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	557,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	398,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	80,659,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	            자산부채의증감	49,821,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentForDecreaseIncreaseInLoansAtAmortisedCost	               상각후원가측정대출채권의 감소(증가)	-35,169,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInProvisions	               충당부채의 증가(감소)	11,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	               기타자산의 감소(증가)	72,726,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers	               예수부채의 증가(감소)	6,893,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInEmployeeBenefitLiabilities	               확정급여부채 증가(감소)	2,182,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities	               기타부채의 증가(감소)	3,178,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00148832_AdjustmentsToReconcileProfitLossOfCashFlowsFromUsedInOperatingActivities	            손익조정사항	-77,083,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00148832_AdjustmentsForDividendIncomeOfAdjustmentsToReconcileProfitLossOfCashFlowsFromUsedInOperatingActivities	               배당수익	-15,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00148832_AdjustmentsForIncomeTaxExpenseOfAdjustmentsToReconcileProfitLossOfCashFlowsFromUsedInOperatingActivities	               법인세비용	1,360,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00148832_AdjustmentsForInterestExpenseOfAdjustmentsToReconcileProfitLossOfCashFlowsFromUsedInOperatingActivities	               이자비용	87,053,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00148832_AdjustmentsForInterestIncomeOfAdjustmentsToReconcileProfitLossOfCashFlowsFromUsedInOperatingActivities	               이자수익	-165,481,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	            현금유출입이 없는 손익항목	27,033,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	               신용손실충당금전입	24,102,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainLossOnForeignExchangeTranslations	               외환거래손익	390,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForNonOperatingIncomeExpense	               영업외손익	6,206,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherOperatingIncomeExpense	               기타영업손익	23,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	               당기손익-공정가치측정금융자산관련손익	137,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	               기타포괄손익-공정가치측정금융자산처분이익	4,768,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00148832_AdjustmentsForAmortisationExpenseOfAdjustmentsForReconcileProfitLoss	               무형자산상각비	8,852,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00148832_AdjustmentsForDepreciationExpenseOfAdjustmentsForReconcileProfitLoss	               감가상각비	3,988,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00148832_AdjustmentsForEmployeeBenefitsExpenseOfAdjustmentsForReconcileProfitLoss	               종업원관련비용	1,615,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금의 수취	15,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세의 납부	-1,693,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	92,556,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	163,682,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	            반기순이익(손실)	8,054,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         현금및현금성자산에 대한 환율변동효과	-531,000,000		
+ 현금흐름표, 은행 - 별도	[006220]	제주은행	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의증감	110,749,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초 현금및현금성자산	1,853,945,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      반기말 현금및현금성자산	1,078,403,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로 인한 현금흐름	-182,962,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromPaidinCapitalIncrease	            유상증자	104,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	171,520,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsForShareIssueCosts	            주식발행비용	2,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 감소	11,544,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로 인한 현금흐름	-2,459,992,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            임차보증금의 감소	1,800,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            임차보증금의 증가	1,860,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 처분	440,000,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 처분	3,046,006,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정유가증권의 취득	1,032,330,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 취득	4,890,424,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAdvancesAndLoansMadeToOtherPartiesClassifiedAsInvestingActivities	            선급금의 증가	6,015,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	0		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	2,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	4,605,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInAssociates	            관계기업투자자산의 취득	0		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	12,566,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로 인한 현금흐름	1,874,308,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	1,331,495,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산부채의 변동	1,518,959,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentForDecreaseIncreaseInLoansAtAmortisedCost	                  상각후원가측정대출채권	-3,170,061,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInDuefromBanks	                  예치금	-57,892,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	                  당기손익-공정가치측정금융상품	-4,180,575,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInProvisions	                  충당부채	-582,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	                  기타자산	-61,510,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers	                  예수부채	8,697,499,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInEmployeeBenefitLiabilities	                  순확정급여자산	-2,945,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities	                  기타부채	295,025,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestExpense	               이자비용	564,272,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestIncome	               이자수익	1,206,289,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               현금의 유출입이 없는 비용(수익)등의 가감	190,880,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	                  금융자산신용손실충당금전입액	119,044,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForExpenseOfProvisions	                  충당부채전입액	5,275,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainLossOnDisposalsOfIntangibleAssets	                  무형자산관련손익	0		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainLossOnForeignExchangeTranslations	                  외화환산손익	-7,659,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherIncomeExpense	                  기타손익	38,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForProvisionForSeveranceIndemnities	                  확정급여형퇴직급여	6,512,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughOtherComprehensiveIncome	                  기타포괄손익-공정가치측정금융자산관련손익	20,032,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainLossFromFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치측정금융상품관련손익	43,092,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForAmortisationExpense	                  무형자산상각비	3,908,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDepreciationExpense	                  감가상각비	24,518,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForGainLossOnDisposalsPropertyPlantAndEquipment	                  유형자산관련손익	-7,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncomeTaxExpense	                  법인세비용	87,016,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForSharebasedPayments	                  주식보상비용	0		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForUndistributedProfitsOfInvestmentsAccountedForUsingEquityMethod	                  관계기업투자자산관련손익	-103,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               IX. 반기순이익	263,673,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세의 납부	77,085,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	578,884,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	1,198,782,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         현금및현금성자산 환율변동효과	-6,896,000,000		
+ 현금흐름표, 은행 - 별도	[323410]	카카오뱅크	유가증권시장상장법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산 증가	-775,542,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초의 현금및현금성자산	1,015,331,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      현금및현금성자산	1,186,967,000,000	1,015,331,000,000	
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로 인한 현금흐름	96,946,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashInflowFromIssuanceOfHybridBond	            신종자본증권의 발행	99,894,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 상환	2,948,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로 인한 현금흐름	235,229,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            임차보증금의 증가	861,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 처분	1,947,330,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 취득	1,691,975,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	10,429,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	8,836,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로 인한 현금흐름	-160,539,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	-304,160,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               영업활동으로 인한 자산 부채의 변동	-277,342,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               손익조정항목	-211,609,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherAdjustmentsForNoncashItems	               현금유출입이 없는 비용 및 수익 등의 조정	100,543,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               반기순이익	84,248,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금 수입	0		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세 환급	-4,824,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	374,773,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	513,570,000,000		
+ 현금흐름표, 은행 - 별도	[null]	케이뱅크	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의 증가	171,636,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초의 현금및현금성자산	28,845,499,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      반기말의 현금및현금성자산	27,173,359,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동으로 인한 현금흐름	2,491,570,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DividendToHybridBond	            신종자본증권 분배금	7,449,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00158909_udf_CF_2023919131118223OfCashFlowsFromUsedInFinancingActivities	            위험회피목적 파생상품의 순현금흐름	200,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00158909_udf_CF_20239191395893OfCashFlowsFromUsedInFinancingActivities	            차입부채의 순증감	3,215,574,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	1,000,000,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채 상환	90,890,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures	            사채의 발행	5,385,510,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBondsNotesAndDebentures	            사채의 상환	5,011,375,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동으로 인한 현금흐름	2,737,906,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFairValueFinancialAsset	            당기손익-공정가치금융자산의 감소(단기매매항목 외)	4,123,299,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의 감소	5,707,349,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 감소	12,965,878,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFairValueFinancialAsset	            당기손익-공정가치금융자산의 증가(단기매매항목 외)	5,169,468,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtAmortisedCostClassifiedAsInvestingActivities	            상각후원가측정금융자산의 증가	2,891,994,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의 증가	11,744,707,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities	            기타의 순증감	-4,474,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 처분	2,775,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInterestsInAssociates	            관계기업및공동기업투자주식의 감소	2,306,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfInvestmentProperty	            투자부동산의 처분	22,627,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 처분	526,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	159,403,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfInterestsInAssociates	            관계기업및공동기업투자주식의 증가	9,500,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	107,308,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동으로 인한 현금흐름	-6,331,888,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	            영업활동으로 인한 자산 부채의 변동	-8,043,496,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInLoans	               대출채권	2,437,671,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInMerchantBankAccountAssets	               종합금융계정자산	-334,739,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreaseDecreaseInFinancialLiabilitiesAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	               당기손익-공정가치측정금융부채	-7,612,932,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreaseDecreaseInMerchantBankAccountLiabilities	               종합금융계정부채	100,807,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInProvisions	               충당부채	-15,359,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInFinancialAssetsHeldForTrading	               당기손익-공정가치측정금융자산(단기매매항목)	-5,680,612,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	               기타자산	12,684,285,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers	               예수부채	-6,682,608,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInEmployeeBenefitLiabilities	               순확정급여부채	-156,898,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities	               기타부채	15,430,099,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	            반기순이익조정을 위한 가감	-3,181,432,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentForGainLossArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost	               상각후원가측정금융자산 처분손익	0		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	               대출채권 및 기타자산 대손충당금순전입액	225,913,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainLossOnForeignExchangeTranslations	               외화환산손익	-162,695,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainsOnDisposalsOfInvestmentsInAssociates	               관계및종속기업투자주식처분손익	0		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForImpairmentLossesOnInvestmentsInAssociates	               관계및종속기업투자주식 손상환입	-13,706,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherIncomeExpense	               기타손익	15,226,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForProvisionForSeveranceIndemnities	               퇴직급여	81,204,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	               당기손익-공정가치측정금융상품 평가손익	569,474,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnDisposalsOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	               기타포괄손익-공정가치측정금융자산 처분손익	108,223,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnDisposalsOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	               당기손익-공정가치측정금융상품 처분손익	20,578,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ImpairmentLossOfFinancialAssetsAtAmortisedCost	               상각후원가측정금융자산 충당금전입(환입)액	-1,184,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00158909_NetGainOnDisposalOfPropertyAndEquipmentAndIntangibleAssetsAndInvestmentPropertiesOfAdjustmentsForReconcileProfitLoss	               유무형자산 및 투자부동산 처분손익	15,951,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00158909_NetGainOnDisposalOfRightOfUseAssetsOfAdjustmentsForReconcileProfitLoss	               리스사용권자산 처분손익	0		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00158909_udf_CF_202311224913838OfAdjustmentsForReconcileProfitLoss	               기타포괄손익-공정가치측정금융자산 신용위험손실전입(환입)액	-321,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	entity00158909_udf_CF_202311225529903OfAdjustmentsForReconcileProfitLoss	               리스사용권자산 해지손익	556,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDepreciationAndAmortisationExpense	               감가상각비 및 무형자산상각비	271,531,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDividendIncome	               배당수익	29,735,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForGainsLossesOnChangeInFairValueOfDerivatives	               위험회피목적 파생상품 및 위험회피대상 평가손익	95,094,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForImpairmentLossReversalOfImpairmentLossRecognisedInProfitOrLoss	               유무형자산 및 투자부동산 손상차손	5,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncomeTaxExpense	               법인세비용	620,036,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestExpense	               이자비용	5,138,066,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestIncome	               이자수익	8,806,624,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForProvisions	               충당부채순전입액	-20,344,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForSharebasedPayments	               주식보상비용	16,134,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금의 수취	29,735,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세의 납부	387,234,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자의 지급	5,572,922,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자의 수취	8,810,737,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	            연결반기순이익	2,012,724,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         현금및현금성자산의 환율변동으로 인한 효과	-569,728,000,000		
+ 현금흐름표, 은행 - 별도	[004940]	하나은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalentsBeforeEffectOfExchangeRateChanges	      현금및현금성자산의 순증감	-1,102,412,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초현금및현금성자산	6,147,021,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      기말현금및현금성자산	9,404,179,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	-98,743,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreaseInFinancialLiabilitiesDesignatedAtFairValueThroughProfitOrLossClassifiedAsFinancingActivities	            당기손익-공정가치측정지정금융부채의증가-재무활동	93,639,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DividendsPaidToHybridBond	            신종자본증권의 배당	7,857,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_IncreaseInOtherLiabilitiesFinancingActivities	            기타부채의 증가 - 재무활동	0		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromLongTermBorrowings	            장기차입금의 증가	477,276,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_RepaymentsOfLongTermBorrowings	            장기차입금의 감소	398,850,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForSharebasedPayments	            주식기준보상지급	-13,284,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금지급	232,000,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PaymentsOfLeaseLiabilitiesClassifiedAsFinancingActivities	            리스부채의 지급	14,120,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromCurrentBorrowings	            단기차입금의 증가	0		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromIssueOfBondsNotesAndDebentures	            발행사채의 증가	859,527,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBondsNotesAndDebentures	            발행사채의 감소	650,000,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfCurrentBorrowings	            단기차입금의 감소	213,074,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	-227,033,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_DecreaseInGuaranteeDeposits	            보증금등의 감소	549,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            보증금등의 증가	7,918,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의처분	4,828,108,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정금융자산의취득	5,026,302,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromSalesOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산 및 투자부동산의 처분	0		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	20,477,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산 및 투자부동산의 취득	993,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	3,588,278,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	            영업활동으로 인한 자산 부채의 변동	3,508,798,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	            손익조정항목	-276,003,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세납부(환급)	32,957,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자지급	1,020,531,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자수취	1,197,707,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	            당기순이익(손실)	211,264,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         현금및현금성자산에 대한 환율변동효과	-5,344,000,000		
+ 현금흐름표, 은행 - 별도	[000110]	한국스탠다드차타드은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금및현금성자산의순증가(감소)	3,257,158,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_CashAndCashEquivalentsAtBeginningOfPeriodCf	      기초의 현금 및 현금성자산	2,390,109,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashAndCashEquivalents	      반기말의 현금 및 현금성자산	2,499,679,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInFinancingActivities	         재무활동순현금흐름	351,518,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_IncreaseInOtherLiabilitiesFinancingActivities	            기타부채의 순증감	614,928,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsPaidClassifiedAsFinancingActivities	            배당금의 지급	155,955,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromBorrowingsClassifiedAsFinancingActivities	            차입부채의 증가	786,215,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBondsNotesAndDebentures	            사채의 상환	0		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_RepaymentsOfBorrowingsClassifiedAsFinancingActivities	            차입부채의 감소	893,670,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInInvestingActivities	         투자활동순현금흐름	2,336,369,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_IncreaseInGuaranteeDeposits	            기타자산의 순증감	-3,552,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_ProceedsFromSalesOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정 금융자산의 처분	8,878,366,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_PurchaseOfFinancialAssetsAtFairValueThroughOtherComprehensiveIncome	            기타포괄손익-공정가치측정 금융자산의 취득	6,532,277,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_OtherInflowsOutflowsOfCashClassifiedAsInvestingActivities	            복구비의 지급	-451,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProceedsFromDisposalOfNoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSaleAndDiscontinuedOperations	            매각예정비유동자산의 처분	0		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities	            무형자산의 취득	1,657,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities	            유형자산의 취득	11,164,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperatingActivities	         영업활동순현금흐름	-2,481,217,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_CashFlowsFromUsedInOperations	            영업에서 창출된 현금흐름	-2,771,992,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAssetsLiabilitiesOfOperatingActivities	               자산부채의 증감	-2,755,380,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentForDecreaseIncreaseInLoansAtAmortisedCost	                  상각후원가측정 대출채권의 감소(증가)	-1,022,789,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInDuefromBanks	                  예치금의 감소(증가)	183,076,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDecreaseIncreaseInFinancialAssetsAtFairValueThroughProfitOrLossClassifiedAsOperatingActivities	                  당기손익-공정가치측정금융자산의 증가	-2,989,633,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForIncreasedecreaseInProvisions	                  충당부채의 감소	-954,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInDerivativeFinancialAssets	                  파생상품자산의 감소	6,986,760,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDecreaseIncreaseInOtherAssets	                  기타자산의 증가	-15,377,077,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDepositsFromCustomers	                  예수부채의 증가(감소)	1,190,344,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInDerivativeFinancialLiabilities	                  파생상품부채의 감소	-6,700,829,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncreaseDecreaseInOtherLiabilities	                  기타부채의 증가	14,975,722,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForReconcileProfitLoss	               손익조정사항	-199,735,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForAdditionalAllowanceRecognisedInProfitOrLossAllowanceAccountForCreditLossesOfFinancialAssets	                  신용손실충당금 전입액	28,413,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForDepreciationInvestmentProperty	                  투자부동산감가상각비	44,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForGainLossOnForeignExchangeTranslations	                  외환거래손익	138,082,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherExpenseByFunction	                  기타비용	32,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherOperatingExpense	                  기타영업비용	398,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForOtherRevenue	                  기타수익	87,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_AdjustmentsForProvisionForSeveranceIndemnities	                  종업원급여	14,079,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainFromFinancialInstruments	                  금융상품관련기타순손익	6,035,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	dart_GainsLossesOnChangeInFairValueOfFinancialInstrumentsAtFairValueThroughProfitOrLoss	                  당기손익-공정가치측정 금융상품관련순손익	111,634,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForAmortisationExpense	                  무형자산상각비	1,933,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForDepreciationExpense	                  유형자산감가상각비	13,667,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForGainsLossesOnChangeInFairValueOfDerivatives	                  파생상품관련순손익	-212,192,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForIncomeTaxExpense	                  법인세비용	54,859,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_AdjustmentsForInterestIncome	                  순이자손익	269,514,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_ProfitLoss	               반기순이익	183,123,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_DividendsReceivedClassifiedAsOperatingActivities	            배당금 수취액	1,033,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncomeTaxesPaidRefundClassifiedAsOperatingActivities	            법인세 환급액	-9,272,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestPaidClassifiedAsOperatingActivities	            이자 지급액	251,703,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_InterestReceivedClassifiedAsOperatingActivities	            이자 수취액	532,173,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_EffectOfExchangeRateChangesOnCashAndCashEquivalents	         외화표시 현금 및 현금성자산에 대한 환율변동효과	-97,100,000,000		
+ 현금흐름표, 은행 - 별도	[016830]	한국씨티은행	기타법인	641	은행 및 저축기관	12	2025-06-30	반기보고서	KRW	ifrs-full_IncreaseDecreaseInCashAndCashEquivalents	      현금 및 현금성자산의순증감	109,570,000,000		
