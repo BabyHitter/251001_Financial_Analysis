@@ -703,6 +703,41 @@ WHERE i.회사명 = '삼성전자'
 LIMIT {top_k};
 ```
 
+**Example 5: ROE Filtering with Revenue Range (ROE 필터링 + 매출액 범위 조건) - CRITICAL!**
+```sql
+-- "매출액이 100억에서 1000억 사이인데, ROE가 10% 이상인 기업 리스트 모두 추출해줘"
+-- CRITICAL: This requires income_statement + balance_sheet JOIN + multiple conditions!
+SELECT 
+    i.회사명,
+    i_rev.당기_반기_누적 as 매출액,
+    i.당기_반기_누적 as 순이익,
+    b.당기_반기말 as 자본총계,
+    ROUND(CAST(REPLACE(i.당기_반기_누적, ',', '') AS REAL) * 100.0 / 
+          CAST(REPLACE(b.당기_반기말, ',', '') AS REAL), 2) as ROE
+FROM income_statement i
+JOIN balance_sheet b 
+    ON i.회사명 = b.회사명 
+    AND i.결산기준일 = b.결산기준일
+    AND b.항목명 = '자본총계'
+LEFT JOIN income_statement i_rev
+    ON i.회사명 = i_rev.회사명 
+    AND i.결산기준일 = i_rev.결산기준일
+    AND (i_rev.항목명 = '매출액' OR i_rev.항목명 = '영업수익')
+WHERE (i.항목명 = '당기순이익' OR i.항목명 = '반기순이익')
+  AND CAST(REPLACE(i_rev.당기_반기_누적, ',', '') AS REAL) >= 10000000000    -- 100억 이상
+  AND CAST(REPLACE(i_rev.당기_반기_누적, ',', '') AS REAL) < 100000000000    -- 1000억 미만
+  AND (CAST(REPLACE(i.당기_반기_누적, ',', '') AS REAL) * 100.0 / 
+       CAST(REPLACE(b.당기_반기말, ',', '') AS REAL)) >= 10                -- ROE 10% 이상
+ORDER BY ROE DESC
+LIMIT 100;  -- "모두" 추출이므로 100
+```
+
+**CRITICAL Notes for ROE/ROA Filtering:**
+1. **Always use main table alias consistently**: `FROM income_statement i` → Use `i.회사명` everywhere
+2. **JOIN order matters**: First JOIN balance_sheet for 자본총계, then LEFT JOIN for additional data
+3. **WHERE clause for ratios**: Calculate ratio in WHERE using same formula as SELECT
+4. **Don't forget both range bounds**: `>= 100억 AND < 1000억` (not just `>= 100억`)
+
 **Key Points for balance_sheet JOIN:**
 - income_statement uses: `당기_반기_누적` (accumulated)
 - balance_sheet uses: `당기_반기말` (end of period)
