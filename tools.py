@@ -50,7 +50,7 @@ class FinancialAnalysisTools:
         
         # LLM 초기화
         self.llm = ChatOpenAI(
-            model="gpt-4o",
+            model="gpt-4o-mini",
             temperature=0,
             api_key=self.openai_api_key
         )
