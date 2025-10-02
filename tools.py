@@ -268,6 +268,39 @@ WHERE 회사명 = '삼성전자'
   AND (항목명 LIKE '%반기순이익%' OR 항목명 LIKE '%당기순이익%' OR 항목명 LIKE '%순이익%')
 ```
 
+## 🚨 CRITICAL: Ambiguous Company Name Handling 🚨
+**Problem:** User asks "sk의 매출액" → 25 companies match (SK, SKC, SK텔레콤, SK하이닉스, etc.)
+
+**Solution: ALWAYS use EXACT company name matching!**
+- **NEVER use `LIKE '%sk%'`** - this matches 25 companies and creates confusing results!
+- **ALWAYS use exact match**: `WHERE 회사명 = 'SK텔레콤'` ✅
+- **Check entity_info for exact company name** - it provides the correct full name
+
+**Common Ambiguous Cases:**
+1. **"sk" alone** → 25 possible companies (SK, SKC, SK텔레콤, SK하이닉스, SK네트웍스, SK스퀘어, etc.)
+2. **"삼성" alone** → Multiple (삼성전자, 삼성중공업, 삼성SDI, etc.)
+3. **"lg" alone** → Multiple (LG전자, LG유플러스, LG화학, etc.)
+
+**What to do:**
+- If entity_info provides exact company name → USE IT!
+- If user query is ambiguous and no entity_info → Default to most common:
+  - "sk" → "SK텔레콤" or "SK하이닉스" (depending on context)
+  - "삼성" → "삼성전자"
+  - "lg" → "LG전자"
+
+**Examples:**
+```sql
+-- ❌ BAD (matches 25 companies!)
+SELECT * FROM income_statement WHERE 회사명 LIKE '%sk%'
+
+-- ✅ GOOD (exact match)
+SELECT * FROM income_statement WHERE 회사명 = 'SK텔레콤'
+
+-- ✅ ACCEPTABLE (multiple specific companies)
+SELECT * FROM income_statement 
+WHERE 회사명 IN ('SK텔레콤', 'SK하이닉스', 'SK이노베이션')
+```
+
 ## CRITICAL: Financial Ratio Calculation (재무비율 계산)
 **The database does NOT have ratio columns. You must calculate them using SQL.**
 
@@ -709,6 +742,16 @@ Question: {input}
                 f'Question: {state["question"]}\n'
                 f'SQL Query: {state["query"]}\n'
                 f'SQL Result: {state["result"]}\n\n'
+                "**🚨 CRITICAL: ALWAYS show company name (회사명) for EVERY data point! 🚨**\n"
+                "- If SQL Result has multiple companies, group data by company name\n"
+                "- Format: '**[Company Name]**: 매출액: X, 영업이익: Y, ROE: Z%'\n"
+                "- NEVER show numbers without company names - users can't tell which data belongs to which company!\n"
+                "- If multiple rows exist, organize by company first\n\n"
+                "**Example (GOOD):**\n"
+                "- '**SK텔레콤**: 매출액: 8조원, 영업이익: 9,056억원, ROE: 3.72%'\n"
+                "- '**SK하이닉스**: 매출액: 39조원, 영업이익: 16조원, ROE: 5.86%'\n\n"
+                "**Example (BAD - DO NOT DO THIS!):**\n"
+                "- '매출액: 8조원, 영업이익: 9,056억원' (회사명 없음 ❌)\n\n"
                 "**CRITICAL: Financial Ratio - Check if Already Calculated in SQL!**\n"
                 "1. First, check if SQL Result already has ratio columns (영업이익률, 순이익률, ROE, etc.)\n"
                 "2. If YES: Use the calculated value AS IS (already in percentage) - DO NOT recalculate!\n"
