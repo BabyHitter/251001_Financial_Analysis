@@ -204,7 +204,7 @@ class FinancialAnalysisApp:
                     gr.Markdown("""
                     <div class="info-box">
                     
-                    ## ✨ v2 혁신 기술
+                    ## ✨ 기술 스택
                     
                     ✅ **벡터 기반 고유명사 검색** - 회사명/항목명 매칭 정확도 향상  
                     ✅ **LangGraph StateGraph** - Text2SQL 파이프라인 최적화  
@@ -241,10 +241,10 @@ class FinancialAnalysisApp:
             with gr.Row():
                 msg_input = gr.Textbox(
                     label="",
-                    placeholder="💬 재무제표 관련 질문을 입력하세요... (예: '삼성전자와 SK하이닉스의 영업이익률을 비교해줘')",
+                    placeholder="💬 재무제표 관련 질문을 입력하세요... (예: '삼성전자와 SK하이닉스의 영업이익률을 비교해줘') - Enter 키로 전송",
                     scale=5,
-                    lines=2,
-                    max_lines=4
+                    lines=1,
+                    max_lines=1
                 )
                 send_btn = gr.Button("📤 전송", variant="primary", scale=1, size="lg")
             
@@ -326,7 +326,7 @@ class FinancialAnalysisApp:
                     gr.Markdown("""
                     ### 📊 데이터 출처
                     - **재무제표**: DART 공시 데이터
-                    - **기준일**: 2025년 반기
+                    - **기준일**: 2025년 상반기
                     - **산업**: 제조/금융/통신
                     - **업데이트**: 2025-10-01
                     """)

@@ -50,7 +50,7 @@ class FinancialAnalysisTools:
         
         # LLM 초기화
         self.llm = ChatOpenAI(
-            model="gpt-4o-mini",
+            model="gpt-4o",
             temperature=0,
             api_key=self.openai_api_key
         )
@@ -112,8 +112,36 @@ class FinancialAnalysisTools:
         # SQL 쿼리 생성 프롬프트 (고유명사 정보 포함)
         query_prompt_template = ChatPromptTemplate.from_template("""
 Given an input question, create a syntactically correct {dialect} query to run to help find the answer. 
-Unless the user specifies in his question a specific number of examples they wish to obtain, 
-always limit your query to at most {top_k} results.
+
+**CRITICAL: LIMIT Rules - READ THIS CAREFULLY!**
+The default {top_k} is ONLY for simple queries. Many queries need LIMIT 100!
+
+Check if the question contains ANY of these keywords:
+- Korean: "모두", "전부", "모든", "추출", "전체", "모두 조회", "모두 추출"
+- English: "all", "all companies", "extract all", "show all"
+- Filtering context: "~이면서 ~인 기업" (usually means "all matching companies")
+
+**Decision Logic:**
+1. If ANY keyword above appears → LIMIT 100 (NOT {top_k}!)
+2. If user specifies exact number ("상위 5개", "top 10") → Use that number
+3. ONLY if neither above → Use LIMIT {top_k}
+
+**Examples:**
+- "모두 추출해줘" → LIMIT 100 ✅
+- "영업이익률 20% 이상인 기업 모두" → LIMIT 100 ✅
+- "~이면서 ~인 회사 추출" → LIMIT 100 ✅
+- "상위 5개 기업" → LIMIT 5 ✅
+- "삼성전자의 매출액은?" → LIMIT {top_k} ✅
+
+**CRITICAL: Range Conditions (범위 조건)**
+When user specifies ranges like "100억 이상 1000억 미만", "X 이상 Y 미만", "X ~ Y":
+- ALWAYS use BOTH lower bound (>=) AND upper bound (<)
+- Example: "매출액 100억 이상 1000억 미만"
+  → `CAST(REPLACE(매출액, ',', '') AS REAL) >= 10000000000`
+  → `AND CAST(REPLACE(매출액, ',', '') AS REAL) < 100000000000`
+- "이상" = >= (inclusive), "미만" = < (exclusive)
+- "초과" = > (exclusive), "이하" = <= (inclusive)
+- NEVER forget the upper bound! This is critical for accurate filtering!
 
 You can order the results by a relevant column to return the most interesting examples in the database.
 Never query for all the columns from a specific table, only ask for a the few relevant columns given the question.
@@ -182,12 +210,14 @@ Entity names and their relationships to consider:
 - "영업이익" → Look for '영업이익' (including variations like '영업이익(손실)')
   - WHERE 항목명 LIKE '%영업이익%'
 
-- "순이익", "당기순이익" → **CRITICAL: Period-specific mapping!**
-  - For 반기 (half-year) data: Use '반기순이익' or '당기반기순이익'
-  - For 연간 (annual) data: Use '당기순이익'
-  - **ALWAYS try multiple patterns**:
-    - WHERE (항목명 LIKE '%반기순이익%' OR 항목명 LIKE '%당기순이익%' OR 항목명 LIKE '%순이익%')
-  - If asked for "net income", prioritize '반기순이익' for current data
+- "순이익", "당기순이익" → **CRITICAL: Company-specific variations!**
+  - **케이티, LG유플러스**: "반기순이익"
+  - **SK텔레콤**: "당기순이익" (반기순이익 없음!)
+  - **삼성전자, SK하이닉스**: "반기순이익"
+  - **ALWAYS use ALL patterns to catch all companies**:
+    - WHERE (항목명 LIKE '%반기순이익%' OR 항목명 LIKE '%당기순이익%' OR 항목명 = '당기순이익' OR 항목명 LIKE '%순이익%')
+  - **NEVER query just '반기순이익' - SK텔레콤 will fail!**
+  - **NEVER query just '당기순이익' - 케이티/LG유플러스 will fail!**
 
 - "매출총이익" → Look for '매출총이익'
   - WHERE 항목명 LIKE '%매출총이익%'
@@ -223,9 +253,15 @@ FROM income_statement
 WHERE 회사명 = '케이티'
   AND (항목명 LIKE '%영업수익%' OR 항목명 LIKE '%매출액%' 
        OR 항목명 LIKE '%영업이익%' 
-       OR 항목명 LIKE '%반기순이익%' OR 항목명 LIKE '%순이익%')
+       OR 항목명 LIKE '%반기순이익%' OR 항목명 LIKE '%당기순이익%' OR 항목명 LIKE '%순이익%')
 
--- "삼성전자 순이익은?" (반기순이익 검색)
+-- "SK텔레콤 순이익은?" (당기순이익 사용! - 반기순이익 없음)
+SELECT 회사명, 항목명, 당기_반기_누적
+FROM income_statement
+WHERE 회사명 = 'SK텔레콤'
+  AND (항목명 LIKE '%반기순이익%' OR 항목명 LIKE '%당기순이익%' OR 항목명 = '당기순이익' OR 항목명 LIKE '%순이익%')
+
+-- "삼성전자 순이익은?" (반기순이익 사용)
 SELECT 회사명, 항목명, 당기_반기_누적
 FROM income_statement
 WHERE 회사명 = '삼성전자'
@@ -297,7 +333,7 @@ WHERE i_op.회사명 = '케이티'
   AND (i_rev.항목명 LIKE '%영업수익%' OR i_rev.항목명 LIKE '%매출액%')
 LIMIT 1;
 
--- 순이익률 계산 예시 - 반기순이익 사용!
+-- 순이익률 계산 예시 - 삼성전자 (반기순이익)
 SELECT 
     i_net.회사명,
     i_net.항목명 as 순이익_항목,
@@ -310,8 +346,25 @@ FROM income_statement i_net
 JOIN income_statement i_rev ON i_net.회사명 = i_rev.회사명 
     AND i_net.결산기준일 = i_rev.결산기준일
 WHERE i_net.회사명 = '삼성전자'
-  AND (i_net.항목명 LIKE '%반기순이익%' OR i_net.항목명 LIKE '%순이익%')
+  AND (i_net.항목명 LIKE '%반기순이익%' OR i_net.항목명 LIKE '%당기순이익%' OR i_net.항목명 LIKE '%순이익%')
   AND (i_rev.항목명 LIKE '%매출액%' OR i_rev.항목명 LIKE '%영업수익%')
+LIMIT 1;
+
+-- 순이익률 계산 예시 - SK텔레콤 (당기순이익 + 영업수익)
+SELECT 
+    i_net.회사명,
+    i_net.항목명 as 순이익_항목,
+    i_net.당기_반기_누적 as 순이익,
+    i_rev.항목명 as 매출_항목,
+    i_rev.당기_반기_누적 as 영업수익,
+    ROUND(CAST(REPLACE(i_net.당기_반기_누적, ',', '') AS REAL) * 100.0 / 
+          CAST(REPLACE(i_rev.당기_반기_누적, ',', '') AS REAL), 2) as 순이익률
+FROM income_statement i_net
+JOIN income_statement i_rev ON i_net.회사명 = i_rev.회사명 
+    AND i_net.결산기준일 = i_rev.결산기준일
+WHERE i_net.회사명 = 'SK텔레콤'
+  AND (i_net.항목명 LIKE '%반기순이익%' OR i_net.항목명 LIKE '%당기순이익%' OR i_net.항목명 = '당기순이익')
+  AND (i_rev.항목명 LIKE '%영업수익%' OR i_rev.항목명 LIKE '%매출액%')
 LIMIT 1;
 ```
 
@@ -339,10 +392,15 @@ SELECT 회사명, 항목명, 당기_반기_누적 as 영업수익
 FROM income_statement
 WHERE 회사명 = '케이티' AND (항목명 LIKE '%영업수익%' OR 항목명 LIKE '%매출액%');
 
--- Step 3: Get 순이익 (반기순이익)
+-- Step 3: Get 순이익 (반기순이익 or 당기순이익 - 회사마다 다름!)
 SELECT 회사명, 항목명, 당기_반기_누적 as 순이익
 FROM income_statement
-WHERE 회사명 = '케이티' AND (항목명 LIKE '%반기순이익%' OR 항목명 LIKE '%순이익%');
+WHERE 회사명 = '케이티' AND (항목명 LIKE '%반기순이익%' OR 항목명 LIKE '%당기순이익%' OR 항목명 LIKE '%순이익%');
+
+-- SK텔레콤의 경우 (당기순이익만 있음)
+SELECT 회사명, 항목명, 당기_반기_누적 as 순이익
+FROM income_statement
+WHERE 회사명 = 'SK텔레콤' AND (항목명 LIKE '%반기순이익%' OR 항목명 LIKE '%당기순이익%' OR 항목명 = '당기순이익');
 
 -- Then in the answer generation, calculate: (영업이익 / 영업수익 * 100)
 ```
@@ -450,8 +508,65 @@ LIMIT 20;
 2. JOIN on both 회사명 AND 결산기준일
 3. Use meaningful column aliases (as 영업이익, as 자산총계)
 4. Add ORDER BY to show most relevant results first
-5. Use LIMIT to prevent too many results (default 10-20)
+5. Use LIMIT to prevent too many results (default 10-20, or 100 if user asks for "모두")
 6. Number formats: 1000억 = 100000000000, 1조 = 1000000000000
+
+**CRITICAL: Calculating Ratios in SQL for Filtering (비율로 필터링)**
+When filtering by ratio conditions (예: "영업이익률 20% 이상"):
+1. Calculate ratio in SELECT: `ROUND(영업이익 * 100.0 / 매출액, 2) as 영업이익률`
+2. Filter using the SAME calculation: `WHERE (영업이익 * 100.0 / 매출액) >= 20`
+3. The calculated column will show percentage value (예: 14.05 means 14.05%)
+4. Include both raw data AND calculated ratio in SELECT for transparency
+5. **CRITICAL**: Use EXACT item name matching to avoid partial matches!
+   - 매출액: Use `항목명 = '매출액'` NOT `항목명 LIKE '%매출액%'`
+   - 영업수익: Use `항목명 = '영업수익'` NOT `항목명 LIKE '%영업수익%'`
+   - 영업이익: Use `(항목명 = '영업이익' OR 항목명 = '영업이익(손실)')` NOT `항목명 LIKE '%영업이익%'`
+   - This prevents matching "건설계약으로 인한 매출액" or "재화의 판매로 인한 매출액"
+
+**Example 1: Filter by Operating Profit Margin (단일 조건)**
+```sql
+-- "영업이익률 20% 이상이면서 매출액 1000억 이상인 회사 모두"
+SELECT DISTINCT
+    i_op.회사명,
+    i_op.당기_반기_누적 as 영업이익,
+    i_rev.당기_반기_누적 as 매출액,
+    ROUND(CAST(REPLACE(i_op.당기_반기_누적, ',', '') AS REAL) * 100.0 / 
+          CAST(REPLACE(i_rev.당기_반기_누적, ',', '') AS REAL), 2) as 영업이익률
+FROM income_statement i_op
+JOIN income_statement i_rev 
+    ON i_op.회사명 = i_rev.회사명 
+    AND i_op.결산기준일 = i_rev.결산기준일
+WHERE (i_op.항목명 = '영업이익' OR i_op.항목명 = '영업이익(손실)')
+  AND (i_rev.항목명 = '매출액' OR i_rev.항목명 = '영업수익')
+  AND CAST(REPLACE(i_rev.당기_반기_누적, ',', '') AS REAL) >= 100000000000  -- 1000억 이상
+  AND (CAST(REPLACE(i_op.당기_반기_누적, ',', '') AS REAL) * 100.0 / 
+       CAST(REPLACE(i_rev.당기_반기_누적, ',', '') AS REAL)) >= 20  -- 영업이익률 20%+
+ORDER BY 영업이익률 DESC
+LIMIT 100;  -- "모두" 조회이므로 100
+```
+
+**Example 2: Range Condition (범위 조건) - CRITICAL!**
+```sql
+-- "매출액이 100억 이상 1000억 미만이면서, 영업이익률이 20% 이상인 기업 모두 추출해줘"
+SELECT DISTINCT
+    i_op.회사명,
+    i_rev.당기_반기_누적 as 매출액,
+    i_op.당기_반기_누적 as 영업이익,
+    ROUND(CAST(REPLACE(i_op.당기_반기_누적, ',', '') AS REAL) * 100.0 / 
+          CAST(REPLACE(i_rev.당기_반기_누적, ',', '') AS REAL), 2) as 영업이익률
+FROM income_statement i_op
+JOIN income_statement i_rev 
+    ON i_op.회사명 = i_rev.회사명 
+    AND i_op.결산기준일 = i_rev.결산기준일
+WHERE (i_op.항목명 = '영업이익' OR i_op.항목명 = '영업이익(손실)')
+  AND (i_rev.항목명 = '매출액' OR i_rev.항목명 = '영업수익')
+  AND CAST(REPLACE(i_rev.당기_반기_누적, ',', '') AS REAL) >= 10000000000   -- 100억 이상
+  AND CAST(REPLACE(i_rev.당기_반기_누적, ',', '') AS REAL) < 100000000000   -- 1000억 미만 (CRITICAL!)
+  AND (CAST(REPLACE(i_op.당기_반기_누적, ',', '') AS REAL) * 100.0 / 
+       CAST(REPLACE(i_rev.당기_반기_누적, ',', '') AS REAL)) >= 20  -- 영업이익률 20%+
+ORDER BY 영업이익률 DESC
+LIMIT 100;  -- "모두" 추출이므로 100
+```
 
 **CRITICAL: Data Type Issue - Numbers are stored as TEXT with commas!**
 - Values like "11,361,329,000,000" are stored as TEXT, not REAL
@@ -496,6 +611,71 @@ LIMIT 20;
 - 전기 = Previous year (전년도)
 - 전전기 = Year before previous
 
+## CRITICAL: ROE, ROA, 부채비율 - JOIN balance_sheet!
+**When the question asks for ROE, ROA, 부채비율, 유동비율:**
+- These ratios require data from BOTH income_statement AND balance_sheet
+- You MUST JOIN the two tables!
+
+**Example 3: ROE Calculation (ROE = 순이익 / 자본총계 × 100)**
+```sql
+-- "SK텔레콤의 매출액, 영업이익, ROE 조회해줘"
+SELECT 
+    i.회사명,
+    i_rev.당기_반기_누적 as 매출액,
+    i_op.당기_반기_누적 as 영업이익,
+    i.당기_반기_누적 as 순이익,
+    b.당기_반기말 as 자본총계,
+    ROUND(CAST(REPLACE(i.당기_반기_누적, ',', '') AS REAL) * 100.0 / 
+          CAST(REPLACE(b.당기_반기말, ',', '') AS REAL), 2) as ROE
+FROM income_statement i
+JOIN balance_sheet b 
+    ON i.회사명 = b.회사명 AND i.결산기준일 = b.결산기준일
+    AND b.항목명 = '자본총계'
+LEFT JOIN income_statement i_rev
+    ON i.회사명 = i_rev.회사명 AND i.결산기준일 = i_rev.결산기준일
+    AND (i_rev.항목명 = '매출액' OR i_rev.항목명 = '영업수익')
+LEFT JOIN income_statement i_op
+    ON i.회사명 = i_op.회사명 AND i.결산기준일 = i_op.결산기준일
+    AND (i_op.항목명 = '영업이익' OR i_op.항목명 = '영업이익(손실)')
+WHERE i.회사명 = 'SK텔레콤'
+  AND (i.항목명 = '당기순이익' OR i.항목명 = '반기순이익')
+LIMIT {top_k};
+```
+
+**Example 4: ROA Calculation (ROA = 순이익 / 자산총계 × 100)**
+```sql
+-- "삼성전자의 ROA와 부채비율 조회해줘"
+SELECT 
+    i.회사명,
+    i.당기_반기_누적 as 순이익,
+    b_asset.당기_반기말 as 자산총계,
+    b_equity.당기_반기말 as 자본총계,
+    b_debt.당기_반기말 as 부채총계,
+    ROUND(CAST(REPLACE(i.당기_반기_누적, ',', '') AS REAL) * 100.0 / 
+          CAST(REPLACE(b_asset.당기_반기말, ',', '') AS REAL), 2) as ROA,
+    ROUND(CAST(REPLACE(b_debt.당기_반기말, ',', '') AS REAL) * 100.0 / 
+          CAST(REPLACE(b_equity.당기_반기말, ',', '') AS REAL), 2) as 부채비율
+FROM income_statement i
+JOIN balance_sheet b_asset 
+    ON i.회사명 = b_asset.회사명 AND i.결산기준일 = b_asset.결산기준일
+    AND b_asset.항목명 = '자산총계'
+JOIN balance_sheet b_equity
+    ON i.회사명 = b_equity.회사명 AND i.결산기준일 = b_equity.결산기준일
+    AND b_equity.항목명 = '자본총계'
+LEFT JOIN balance_sheet b_debt
+    ON i.회사명 = b_debt.회사명 AND i.결산기준일 = b_debt.결산기준일
+    AND b_debt.항목명 = '부채총계'
+WHERE i.회사명 = '삼성전자'
+  AND (i.항목명 = '반기순이익' OR i.항목명 = '당기순이익')
+LIMIT {top_k};
+```
+
+**Key Points for balance_sheet JOIN:**
+- income_statement uses: `당기_반기_누적` (accumulated)
+- balance_sheet uses: `당기_반기말` (end of period)
+- JOIN condition: `ON i.회사명 = b.회사명 AND i.결산기준일 = b.결산기준일`
+- Always specify `항목명` in JOIN: `AND b.항목명 = '자본총계'`
+
 Question: {input}
 """)
         
@@ -529,6 +709,39 @@ Question: {input}
                 f'Question: {state["question"]}\n'
                 f'SQL Query: {state["query"]}\n'
                 f'SQL Result: {state["result"]}\n\n'
+                "**CRITICAL: Financial Ratio - Check if Already Calculated in SQL!**\n"
+                "1. First, check if SQL Result already has ratio columns (영업이익률, 순이익률, ROE, etc.)\n"
+                "2. If YES: Use the calculated value AS IS (already in percentage) - DO NOT recalculate!\n"
+                "3. If NO: Calculate it yourself from the raw data\n\n"
+                "**Example:**\n"
+                "- SQL Result has '영업이익률: 14.05' → Answer: '영업이익률: 14.05%' (just add %)\n"
+                "- SQL Result has '영업이익: 1000, 매출액: 5000' → Calculate: '영업이익률: 20% (1000÷5000×100)'\n\n"
+                "**CRITICAL: Financial Ratio Calculation (재무비율 자동 계산)**\n"
+                "If the question asks for ratios (영업이익률, 순이익률, ROE, ROA, 부채비율, etc.),\n"
+                "and SQL Result contains the necessary data, YOU MUST CALCULATE IT!\n\n"
+                "**🚨 CRITICAL: Do NOT confuse 영업수익 vs 영업이익! 🚨**\n"
+                "- 영업수익 (Operating Revenue) = 매출액 (Revenue) = Total sales/income\n"
+                "- 영업이익 (Operating Profit/Income) = 영업수익 - 영업비용 = Profit after costs\n"
+                "- **NEVER say '영업수익 = 영업이익'! They are COMPLETELY DIFFERENT!**\n"
+                "- If SQL Result only has '영업수익' but NOT '영업이익', you MUST say:\n"
+                "  '영업수익은 X원입니다. 영업이익 정보는 제공되지 않았습니다.'\n\n"
+                "**Common Ratios:**\n"
+                "1. 영업이익률 (Operating Profit Margin) = (영업이익 / 매출액 or 영업수익) × 100\n"
+                "   ⚠️ Numerator MUST be 영업이익, NOT 영업수익!\n"
+                "2. 순이익률 (Net Profit Margin) = (순이익 / 매출액 or 영업수익) × 100\n"
+                "3. ROE (자기자본이익률) = (순이익 / 자본총계) × 100\n"
+                "4. ROA (총자산이익률) = (순이익 / 자산총계) × 100\n"
+                "5. 부채비율 (Debt Ratio) = (부채총계 / 자본총계) × 100\n\n"
+                "**How to Calculate:**\n"
+                "1. Remove commas from numbers: '47,687,046,619' → 47687046619\n"
+                "2. Divide and multiply by 100 for percentage\n"
+                "3. Round to 2 decimal places\n"
+                "4. Show calculation in answer: '영업이익률 = (47,289,352,211 ÷ 336,666,812,235) × 100 = 14.05%'\n\n"
+                "**Example:**\n"
+                "Question: 'SNT다이내믹스의 매출액과 영업이익, 영업이익률 조회해줘'\n"
+                "SQL Result: 매출액: 336,666,812,235, 영업이익: 47,289,352,211\n"
+                "Answer: '매출액: 336,666,812,235원, 영업이익: 47,289,352,211원, 영업이익률: 14.05% (계산: 47,289,352,211 ÷ 336,666,812,235 × 100)'\n\n"
+                "**NEVER say '영업이익률에 대한 정보는 제공되지 않았습니다' if you can calculate it!**\n\n"
                 "**CRITICAL: Number Formatting Rules**\n"
                 "- **NEVER calculate or convert number units yourself - you make mistakes!**\n"
                 "- **Use the EXACT numbers from SQL Result with commas (e.g., 47,687,046,619원)**\n"
@@ -542,11 +755,13 @@ Question: {input}
                 "- Keep all numbers exactly as they appear in SQL Result (with commas)\n\n"
                 "Bad Examples (DO NOT DO THIS):\n"
                 "- ❌ '매출액은 4,768억 7,046만원' (wrong conversion!)\n"
-                "- ❌ '영업이익은 867억원' (wrong conversion!)\n\n"
+                "- ❌ '영업이익은 867억원' (wrong conversion!)\n"
+                "- ❌ '영업이익률에 대한 정보는 제공되지 않았습니다' (when you can calculate it!)\n\n"
                 "Good Examples:\n"
                 "- ✅ '매출액은 47,687,046,619원입니다'\n"
                 "- ✅ '영업이익은 8,675,711,602원입니다'\n"
-                "- ✅ '순이익은 6,588,565,249원입니다'"
+                "- ✅ '순이익은 6,588,565,249원입니다'\n"
+                "- ✅ '영업이익률은 18.22%입니다 (계산: 8,675,711,602 ÷ 47,687,046,619 × 100)'"
             )
             response = self.llm.invoke(prompt)
             return {"answer": response.content}

@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>재무제표 분석 시스템 PoC 대시보드</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- Chosen Palette: Cool Gray -->
+    <!-- Application Structure Plan: The application is structured into three main thematic tabs: '개요 (Overview)', '아키텍처 (Architecture)', and '실행 계획 (Execution Plan)'. This non-linear, tabbed approach was chosen to allow different stakeholders (e.g., managers, developers) to easily access the information most relevant to them without being overwhelmed by a long, scrolling document. The 'Overview' combines the project's purpose and its expected benefits. The 'Architecture' section is the technical deep-dive, featuring interactive diagrams for the system flow and the core LangGraph workflow, allowing users to click and explore components. The 'Execution Plan' presents goals and a visualized, interactive timeline. This structure prioritizes user-guided exploration and clarity over the original report's linear format. -->
+    <!-- Visualization & Content Choices: 
+        - Report Info: Overall system architecture diagram -> Goal: Organize/Explain -> Viz: Interactive diagram using HTML/CSS Flexbox -> Interaction: Click on components to show detailed descriptions. Justification: More engaging and clearer than static ASCII art. Method: Vanilla JS.
+        - Report Info: LangGraph Adaptive RAG Workflow -> Goal: Explain complex logic -> Viz: Interactive flowchart using HTML/CSS -> Interaction: Click on nodes ('AnalyzeQuery', 'IterativeRAG', etc.) to update a dedicated description panel. Justification: Breaks down the most complex part of the proposal into digestible, interactive steps. Method: Vanilla JS.
+        - Report Info: Project Timeline Table -> Goal: Show schedule -> Viz: Horizontal Bar Chart -> Interaction: Hover on bars to see tooltips with weekly tasks and deliverables. Justification: A visual timeline is more intuitive and professional than a simple table. Library: Chart.js.
+        - Report Info: PoC Goals Table -> Goal: Organize success criteria -> Viz: Styled HTML table with icons -> Interaction: Hover effects. Justification: Enhances readability and visual appeal of tabular data. Method: HTML/Tailwind.
+        - All other textual content is organized into cards and bullet points for better readability.
+    -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        body {
+            font-family: 'Inter', 'Noto Sans KR', sans-serif;
+            background-color: #f8fafc; /* slate-50 */
+        }
+        .tab-btn {
+            transition: all 0.3s ease;
+        }
+        .tab-btn.active {
+            border-color: #3b82f6; /* blue-500 */
+            color: #3b82f6;
+            background-color: #eff6ff; /* blue-50 */
+        }
+        .content-section {
+            display: none;
+        }
+        .content-section.active {
+            display: block;
+        }
+        .diagram-node {
+            cursor: pointer;
+            transition: all 0.2s ease-in-out;
+        }
+        .diagram-node:hover, .diagram-node.selected {
+            transform: scale(1.05);
+            box-shadow: 0 0 15px rgba(59, 130, 246, 0.4);
+            border-color: #3b82f6;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 350px;
+            max-height: 400px;
+        }
+        @media (max-width: 768px) {
+            .chart-container {
+                height: 500px;
+            }
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <header class="text-center mb-10">
+            <h1 class="text-3xl md:text-4xl font-bold text-slate-900">대한민국 주식회사 재무제표 분석 시스템</h1>
+            <p class="mt-2 text-lg text-slate-600">Proof of Concept 대시보드</p>
+        </header>
+
+        <div class="bg-white rounded-xl shadow-lg p-4 sm:p-6 mb-8">
+            <nav class="flex flex-col sm:flex-row justify-center space-y-2 sm:space-y-0 sm:space-x-4" id="tab-navigation">
+                <button data-tab="overview" class="tab-btn active text-sm sm:text-base font-semibold py-2 px-5 rounded-lg border-2 border-transparent">
+                    <span class="mr-2">💡</span>개요
+                </button>
+                <button data-tab="architecture" class="tab-btn text-sm sm:text-base font-semibold py-2 px-5 rounded-lg border-2 border-transparent">
+                    <span class="mr-2">🏗️</span>아키텍처
+                </button>
+                <button data-tab="plan" class="tab-btn text-sm sm:text-base font-semibold py-2 px-5 rounded-lg border-2 border-transparent">
+                    <span class="mr-2">📅</span>실행 계획
+                </button>
+            </nav>
+        </div>
+
+        <main>
+            <!-- Overview Section -->
+            <section id="overview" class="content-section active">
+                <div class="space-y-8">
+                    <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <h2 class="text-2xl font-bold text-slate-900 mb-4">프로젝트 개요</h2>
+                        <p class="text-slate-600 mb-6">본 프로젝트는 대한민국 주식회사들의 재무제표를 분석하고, 자연어 질의를 통해 인사이트를 도출하는 지능형 시스템을 구현하는 것을 목표로 합니다. DART의 재무제표 데이터를 기반으로 사용자가 쉽게 재무 정보에 접근하고 이해할 수 있는 환경을 제공합니다.</p>
+                        
+                        <h3 class="text-xl font-semibold text-slate-800 mb-4">핵심 목표</h3>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            <div class="bg-slate-50 p-4 rounded-lg">
+                                <h4 class="font-bold text-blue-600">안정적인 DB 구축</h4>
+                                <p class="text-sm text-slate-600">DART의 텍스트 재무제표를 안정적으로 파싱하여 구조화된 데이터베이스를 구축합니다.</p>
+                            </div>
+                            <div class="bg-slate-50 p-4 rounded-lg">
+                                <h4 class="font-bold text-blue-600">자연어 기반 질의응답</h4>
+                                <p class="text-sm text-slate-600">Text2SQL 기술로 자연어 질문을 처리하고, 결과를 다시 자연어로 제공하여 접근성을 높입니다.</p>
+                            </div>
+                            <div class="bg-slate-50 p-4 rounded-lg">
+                                <h4 class="font-bold text-blue-600">답변 범위 확장</h4>
+                                <p class="text-sm text-slate-600">외부 검색 API(Tavily)를 연동하여 재무 외 질문에도 유연하게 대응합니다.</p>
+                            </div>
+                            <div class="bg-slate-50 p-4 rounded-lg">
+                                <h4 class="font-bold text-blue-600">지능형 워크플로우</h4>
+                                <p class="text-sm text-slate-600">LangGraph 기반 Adaptive RAG를 적용하여 쿼리 유형에 따라 최적의 답변 생성 프로세스를 동적으로 선택합니다.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <h2 class="text-2xl font-bold text-slate-900 mb-4">기대 효과</h2>
+                         <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+                            <div class="p-4">
+                                <div class="text-4xl mb-2">🚀</div>
+                                <h3 class="text-lg font-semibold text-slate-800">업무 효율성 증대</h3>
+                                <p class="text-slate-600 mt-1">재무 데이터 분석 시간을 단축하고, 비전문가도 데이터 기반 의사결정이 가능해집니다.</p>
+                            </div>
+                            <div class="p-4">
+                                <div class="text-4xl mb-2">🧠</div>
+                                <h3 class="text-lg font-semibold text-slate-800">분석의 깊이 확장</h3>
+                                <p class="text-slate-600 mt-1">복잡하고 다각적인 질문에 대응하여 깊이 있는 재무 인사이트를 제공합니다.</p>
+                            </div>
+                             <div class="p-4">
+                                <div class="text-4xl mb-2">🛠️</div>
+                                <h3 class="text-lg font-semibold text-slate-800">기술 내재화</h3>
+                                <p class="text-slate-600 mt-1">최신 LLM 스택(LangGraph, Adaptive RAG) 활용을 통해 내부 AI 개발 역량을 강화합니다.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Architecture Section -->
+            <section id="architecture" class="content-section">
+                <div class="space-y-8">
+                    <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <h2 class="text-2xl font-bold text-slate-900 mb-4">전체 시스템 아키텍처</h2>
+                        <p class="text-slate-600 mb-6">사용자의 자연어 입력부터 최종 답변 생성까지의 전체 데이터 흐름입니다. 각 컴포넌트를 클릭하여 상세 설명을 확인하세요.</p>
+                        <div class="lg:flex lg:space-x-6">
+                            <div class="w-full lg:w-3/5">
+                                <div id="system-diagram" class="flex flex-col space-y-4 items-center p-4 rounded-lg bg-slate-50">
+                                    <div class="diagram-node w-full md:w-3/4 text-center p-3 border-2 border-slate-300 rounded-lg bg-white" data-info="userInput">사용자 입력 (자연어)</div>
+                                    <div class="text-2xl text-slate-400">↓</div>
+                                    <div class="diagram-node w-full md:w-3/4 text-center p-3 border-2 border-slate-300 rounded-lg bg-white" data-info="router">LangGraph 라우터 (쿼리 분석)</div>
+                                    <div class="text-2xl text-slate-400">↓</div>
+                                    <div class="diagram-node w-full md:w-3/4 text-center p-3 border-2 border-slate-300 rounded-lg bg-white" data-info="tools">LLM & Tools (SQL, Tavily)</div>
+                                    <div class="text-2xl text-slate-400">↓</div>
+                                    <div class="diagram-node w-full md:w-3/4 text-center p-3 border-2 border-slate-300 rounded-lg bg-white" data-info="responseGen">응답 생성</div>
+                                    <div class="text-2xl text-slate-400">↓</div>
+                                    <div class="diagram-node w-full md:w-3/4 text-center p-3 border-2 border-slate-300 rounded-lg bg-white" data-info="finalAnswer">최종 답변 (자연어)</div>
+                                </div>
+                            </div>
+                            <div id="system-info" class="w-full lg:w-2/5 mt-6 lg:mt-0 p-6 bg-blue-50 rounded-lg">
+                                <h3 id="system-info-title" class="font-bold text-lg text-blue-800">컴포넌트 설명</h3>
+                                <p id="system-info-text" class="text-slate-700 mt-2">다이어그램의 각 요소를 클릭하면 여기에 설명이 표시됩니다.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <h2 class="text-2xl font-bold text-slate-900 mb-4">기술 스택 및 아키텍처 설계</h2>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                            <div>
+                                <h3 class="text-xl font-semibold text-slate-800 mb-4">핵심 기술 스택</h3>
+                                <ul class="space-y-3">
+                                    <li class="flex items-start"><span class="mr-3 text-emerald-500">❖</span><div><span class="font-bold">Core Logic:</span> Python, LangChain, LangGraph</div></li>
+                                    <li class="flex items-start"><span class="mr-3 text-emerald-500">❖</span><div><span class="font-bold">Memory:</span> LangGraph Short-term Memory (대화 기록)</div></li>
+                                    <li class="flex items-start"><span class="mr-3 text-emerald-500">❖</span><div><span class="font-bold">Database:</span> SQLite</div></li>
+                                    <li class="flex items-start"><span class="mr-3 text-emerald-500">❖</span><div><span class="font-bold">LLM:</span> GPT-4 (Text2SQL 및 추론)</div></li>
+                                    <li class="flex items-start"><span class="mr-3 text-emerald-500">❖</span><div><span class="font-bold">User Interface:</span> Gradio</div></li>
+                                    <li class="flex items-start"><span class="mr-3 text-emerald-500">❖</span><div><span class="font-bold">External API:</span> Tavily Search API</div></li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 class="text-xl font-semibold text-slate-800 mb-4">설계 원칙</h3>
+                                <ul class="space-y-3">
+                                    <li class="flex items-start"><span class="mr-3 text-sky-500">❖</span><div><span class="font-bold">모듈성 (Modularity):</span> LangGraph를 통해 각 기능(라우터, 도구)을 독립된 노드로 구현하여 교체 및 확장이 용이합니다.</div></li>
+                                    <li class="flex items-start"><span class="mr-3 text-sky-500">❖</span><div><span class="font-bold">적응성 (Adaptability):</span> Adaptive RAG 기법을 적용, 쿼리의 복잡도에 따라 시스템이 스스로 최적의 워크플로우를 선택하여 자원을 효율적으로 사용합니다.</div></li>
+                                     <li class="flex items-start"><span class="mr-3 text-sky-500">❖</span><div><span class="font-bold">확장성 (Scalability):</span> PoC 이후 DB를 프로덕션급으로 전환하고, 각 컴포넌트를 마이크로서비스로 분리하여 대규모 트래픽에 대응할 수 있는 구조를 지향합니다.</div></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <h2 class="text-2xl font-bold text-slate-900 mb-4">LangGraph 기반 Adaptive RAG 워크플로우</h2>
+                        <p class="text-slate-600 mb-6">본 시스템의 핵심 워크플로우입니다. 쿼리의 성격에 따라 최적의 경로를 동적으로 결정하며, 각 노드를 클릭하여 역할을 확인할 수 있습니다.</p>
+                        <div class="lg:flex lg:space-x-6">
+                            <div id="workflow-info" class="w-full lg:w-2/5 mb-6 lg:mb-0 p-6 bg-amber-50 rounded-lg order-2 lg:order-1">
+                                <h3 id="workflow-info-title" class="font-bold text-lg text-amber-800">워크플로우 노드 설명</h3>
+                                <p id="workflow-info-text" class="text-slate-700 mt-2">워크플로우의 각 노드를 클릭하면 여기에 설명이 표시됩니다.</p>
+                            </div>
+                             <div class="w-full lg:w-3/5 order-1 lg:order-2">
+                                <div class="p-4 rounded-lg bg-slate-50 text-center">
+                                    <div class="diagram-node inline-block p-3 border-2 border-slate-300 rounded-full bg-white" data-workflow="start">Start</div>
+                                    <div class="text-2xl my-2 text-slate-400">↓</div>
+                                    <div class="diagram-node inline-block p-3 border-2 border-slate-300 rounded-lg bg-white" data-workflow="analyze">AnalyzeQuery (Router)</div>
+                                    <div class="my-4 relative h-16">
+                                        <div class="absolute top-0 left-1/2 w-px h-8 bg-slate-300"></div>
+                                        <div class="absolute top-8 left-0 w-full h-px bg-slate-300"></div>
+                                        <div class="absolute top-8 left-0 w-px h-8 bg-slate-300"></div>
+                                        <div class="absolute top-8 right-0 w-px h-8 bg-slate-300"></div>
+                                    </div>
+                                    <div class="flex justify-around">
+                                        <div class="flex flex-col items-center">
+                                            <div class="diagram-node p-3 border-2 border-slate-300 rounded-lg bg-white" data-workflow="noRetrieval">NoRetrieval</div>
+                                        </div>
+                                        <div class="flex flex-col items-center">
+                                            <div class="diagram-node p-3 border-2 border-slate-300 rounded-lg bg-white" data-workflow="singleShot">SingleShotRAG</div>
+                                        </div>
+                                        <div class="flex flex-col items-center">
+                                            <div class="diagram-node p-3 border-2 border-slate-300 rounded-lg bg-white" data-workflow="iterative">IterativeRAG</div>
+                                        </div>
+                                    </div>
+                                    <div class="my-4 relative h-16">
+                                        <div class="absolute bottom-8 left-0 w-px h-8 bg-slate-300"></div>
+                                        <div class="absolute bottom-8 right-0 w-px h-8 bg-slate-300"></div>
+                                        <div class="absolute bottom-8 left-1/2 w-px h-8 bg-slate-300"></div>
+                                        <div class="absolute bottom-8 left-0 w-full h-px bg-slate-300"></div>
+                                    </div>
+                                    <div class="diagram-node inline-block p-3 border-2 border-slate-300 rounded-full bg-white" data-workflow="end">End</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Plan Section -->
+            <section id="plan" class="content-section">
+                 <div class="space-y-8">
+                    <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <h2 class="text-2xl font-bold text-slate-900 mb-4">PoC 목표 및 검증 항목</h2>
+                        <p class="text-slate-600 mb-6">본 PoC의 성공 여부를 판단하기 위한 핵심 목표와 구체적인 검증 항목입니다.</p>
+                        <div class="overflow-x-auto">
+                            <table class="w-full text-left border-collapse">
+                                <thead class="bg-slate-100">
+                                    <tr>
+                                        <th class="p-4 font-semibold text-slate-700">구분</th>
+                                        <th class="p-4 font-semibold text-slate-700">목표</th>
+                                        <th class="p-4 font-semibold text-slate-700">검증 항목</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="divide-y divide-slate-200">
+                                    <tr>
+                                        <td class="p-4 font-medium">🗃️ 데이터 처리</td>
+                                        <td class="p-4">DART 재무제표 텍스트의 DB화</td>
+                                        <td class="p-4 text-slate-600">- 파싱 성공률 (95% 이상)<br>- 데이터 정합성 (원본-DB 일치 여부)</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="p-4 font-medium">↔️ Text2SQL</td>
+                                        <td class="p-4">자연어 재무 질의의 SQL 변환 정확도</td>
+                                        <td class="p-4 text-slate-600">- 간단/중간 복잡도 질문 SQL 생성 정확도 (90% 이상)</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="p-4 font-medium">🧭 라우팅</td>
+                                        <td class="p-4">쿼리 분석 기반의 정확한 경로 선택</td>
+                                        <td class="p-4 text-slate-600">- 3가지 라우팅 전략 분기 테스트 케이스 성공률</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="p-4 font-medium">✅ 답변 품질</td>
+                                        <td class="p-4">최종 답변의 정확성 및 완성도</td>
+                                        <td class="p-4 text-slate-600">- RAG 유형별 답변 품질 평가 (정확성, 관련성, 완결성)</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="p-4 font-medium">🔄 자기 수정</td>
+                                        <td class="p-4">Iterative RAG의 보정 능력</td>
+                                        <td class="p-4 text-slate-600">- 모호한 질문에 대한 답변 개선 케이스 검증</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                     <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <h2 class="text-2xl font-bold text-slate-900 mb-4">추진 계획 (시간별)</h2>
+                        <p class="text-slate-600 mb-6">내일 14시 완료를 목표로 하는 시간 단위 실행 계획입니다. 각 시간대별 핵심 과업을 확인하세요.</p>
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                            <div>
+                                <h3 class="text-xl font-semibold text-center text-slate-800 mb-4 pb-2 border-b-2 border-blue-500">오늘 (10월 1일)</h3>
+                                <div class="space-y-4">
+                                    <div class="p-4 bg-slate-50 rounded-lg shadow-sm">
+                                        <p class="font-bold text-blue-600">오후 13:00 - 15:00</p>
+                                        <ul class="list-disc list-inside text-sm text-slate-600 mt-2 space-y-1">
+                                            <li>환경 설정 및 DART 데이터 분석</li>
+                                            <li>데이터 파싱 기본 로직 설계</li>
+                                        </ul>
+                                    </div>
+                                    <div class="p-4 bg-slate-50 rounded-lg shadow-sm">
+                                        <p class="font-bold text-blue-600">오후 15:00 - 18:00</p>
+                                        <ul class="list-disc list-inside text-sm text-slate-600 mt-2 space-y-1">
+                                            <li>DB 스키마 설계 및 데이터 파싱/적재</li>
+                                            <li>Text2SQL 프롬프트 엔지니어링</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div>
+                                <h3 class="text-xl font-semibold text-center text-slate-800 mb-4 pb-2 border-b-2 border-green-500">내일 (10월 2일)</h3>
+                                <div class="space-y-4">
+                                     <div class="p-4 bg-slate-50 rounded-lg shadow-sm">
+                                        <p class="font-bold text-green-600">오전 09:00 - 11:00</p>
+                                        <ul class="list-disc list-inside text-sm text-slate-600 mt-2 space-y-1">
+                                            <li>LangGraph StateGraph 설계</li>
+                                            <li>라우터 및 3가지 핵심 경로 구현</li>
+                                        </ul>
+                                    </div>
+                                    <div class="p-4 bg-slate-50 rounded-lg shadow-sm">
+                                        <p class="font-bold text-green-600">오전 11:00 - 13:00</p>
+                                        <ul class="list-disc list-inside text-sm text-slate-600 mt-2 space-y-1">
+                                            <li>Iterative RAG 및 Tavily 연동</li>
+                                            <li>전체 기능 통합 및 단위 테스트</li>
+                                        </ul>
+                                    </div>
+                                    <div class="p-4 bg-slate-50 rounded-lg shadow-sm">
+                                        <p class="font-bold text-green-600">오후 13:00 - 14:00</p>
+                                        <ul class="list-disc list-inside text-sm text-slate-600 mt-2 space-y-1">
+                                            <li>PoC 최종 보고서 정리 및 제출</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const tabs = document.querySelectorAll('.tab-btn');
+    const sections = document.querySelectorAll('.content-section');
+
+    tabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            const targetTab = tab.dataset.tab;
+
+            tabs.forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+
+            sections.forEach(section => {
+                if (section.id === targetTab) {
+                    section.classList.add('active');
+                } else {
+                    section.classList.remove('active');
+                }
+            });
+        });
+    });
+
+    const systemDiagramNodes = document.querySelectorAll('#system-diagram .diagram-node');
+    const systemInfoTitle = document.getElementById('system-info-title');
+    const systemInfoText = document.getElementById('system-info-text');
+
+    const systemInfoData = {
+        userInput: {
+            title: '사용자 입력 (자연어)',
+            text: '사용자가 재무 관련 또는 일반적인 질문을 자연어로 입력하는 시스템의 시작점입니다. 예: "삼성전자의 작년 매출액은?"'
+        },
+        router: {
+            title: 'LangGraph 라우터 (쿼리 분석)',
+            text: '입력된 쿼리를 분석하여 가장 적절한 처리 경로를 결정하는 핵심 컴포넌트입니다. 쿼리의 복잡성과 유형을 판단합니다.'
+        },
+        tools: {
+            title: 'LLM & Tools (SQL, Tavily)',
+            text: '라우터의 결정에 따라 Text2SQL 엔진을 호출하여 DB를 조회하거나, Tavily API를 통해 웹 검색을 수행하는 도구 모음입니다.'
+        },
+        responseGen: {
+            title: '응답 생성',
+            text: '도구로부터 얻은 정보(DB 조회 결과, 웹 검색 내용 등)를 바탕으로 LLM이 사용자가 이해하기 쉬운 자연어 답변을 생성합니다.'
+        },
+        finalAnswer: {
+            title: '최종 답변 (자연어)',
+            text: '생성된 답변이 사용자에게 최종적으로 전달됩니다. 시스템의 모든 처리 과정이 끝나는 지점입니다.'
+        }
+    };
+    
+    systemDiagramNodes.forEach(node => {
+        node.addEventListener('click', () => {
+            const infoKey = node.dataset.info;
+            systemDiagramNodes.forEach(n => n.classList.remove('selected'));
+            node.classList.add('selected');
+
+            if (systemInfoData[infoKey]) {
+                systemInfoTitle.textContent = systemInfoData[infoKey].title;
+                systemInfoText.textContent = systemInfoData[infoKey].text;
+            }
+        });
+    });
+    
+    if (systemDiagramNodes.length > 0) {
+        systemDiagramNodes[0].click();
+    }
+
+    const workflowNodes = document.querySelectorAll('[data-workflow]');
+    const workflowInfoTitle = document.getElementById('workflow-info-title');
+    const workflowInfoText = document.getElementById('workflow-info-text');
+
+    const workflowInfoData = {
+        start: { title: 'Start', text: '전체 프로세스를 시작하는 진입점입니다.' },
+        analyze: { title: 'AnalyzeQuery (Router)', text: '입력된 쿼리를 LLM을 통해 분석하여, 쿼리의 명확성, 복잡성, DB 내 정보 존재 가능성 등을 기준으로 다음 3가지 전략 중 하나를 선택하여 라우팅합니다.' },
+        noRetrieval: { title: 'NoRetrieval', text: '쿼리가 "재무상태표가 뭐야?"와 같이 매우 단순하여 추가 정보 검색 없이 LLM의 자체 지식으로 답변 가능한 경우 실행됩니다.' },
+        singleShot: { title: 'SingleShotRAG', text: '쿼리가 "A기업의 2023년 당기순이익은?"처럼 명확하여 단일 DB 조회나 웹 검색으로 답변 가능한 경우 실행됩니다. Text2SQL 또는 Tavily를 1회 호출합니다.' },
+        iterative: { title: 'IterativeRAG', text: '쿼리가 "B기업이 작년에 경쟁사보다 수익성이 좋았던 이유는?"과 같이 복잡하거나 모호하여 여러 단계의 정보 조회 및 종합이 필요할 때 실행됩니다. 쿼리 분해, 반복 검색, 자기 수정 루프를 통해 깊이 있는 답변을 생성합니다.' },
+        end: { title: 'End', text: '생성된 최종 답변을 사용자에게 반환하고 프로세스를 종료합니다.' }
+    };
+
+    workflowNodes.forEach(node => {
+        node.addEventListener('click', () => {
+            const infoKey = node.dataset.workflow;
+            workflowNodes.forEach(n => n.classList.remove('selected'));
+            node.classList.add('selected');
+
+            if (workflowInfoData[infoKey]) {
+                workflowInfoTitle.textContent = workflowInfoData[infoKey].title;
+                workflowInfoText.textContent = workflowInfoData[infoKey].text;
+            }
+        });
+    });
+
+    if (workflowNodes.length > 0) {
+        document.querySelector('[data-workflow="analyze"]').click();
+    }
+    
+});
+</script>
+</body>
+</html>
+
